@@ -7122,13 +7122,21 @@ html body .resi-row b,
 html body .ik-kode b{font-family:var(--font-mono);}
 </style>
 <style id="judulSection24">
-/* Judul section beranda (12/11/2026): Variera 28px, huruf kapital —
+/* Judul section beranda (12/11/2026): Variera 34px, huruf kapital —
    Kategori Terpopuler, Temukan Rasa Favoritmu, Kenapa Sakha (Kopi segar dari roastery...), Semua Produk, Artikel (Insight, Cerita dan Tips...). */
 html body .kb h2,
 html body .kg .kg-h2,
 html body .shop-all .section-head h2,
 html body .shop-all .bh-kepala h2,
-html body .articles .aw-head h2{font-family:var(--font-display);font-size:28px!important;font-weight:700;line-height:1.25!important;text-transform:uppercase!important;}
+html body .articles .aw-head h2{font-family:var(--font-display);font-size:34px!important;font-weight:700;line-height:1.25!important;text-transform:uppercase!important;}
+/* 34px + kapital juga: Dipercaya Ribuan Pecinta Kopi (#tmJudul) dan Dari Kebun ke Cangkir, Kami Jaga Ceritanya (.ab-judul) */
+html body .testimonials.tm .section-head h2,
+html body .about .ab-judul{font-family:var(--font-display);font-size:34px!important;font-weight:700;line-height:1.25!important;text-transform:uppercase!important;}
+/* Semua Produk: satu warna #111111 (kata "Produk" tidak lagi berwarna lain) */
+html body .shop-all .section-head h2,
+html body .shop-all .section-head h2 em{color:#111111;}
+/* "sampai aman di cangkirmu." memakai oranye Sakha (--c-sienna #E87D55) */
+html body .kg .kg-h2 span{color:var(--c-sienna);}
 /* Kategori Terpopuler: 24px */
 html body .kp h2{font-family:var(--font-display);font-size:24px!important;font-weight:700;line-height:1.25!important;text-transform:uppercase!important;}
 </style>
@@ -7146,6 +7154,10 @@ html body .fl-petir{flex:none;width:.58em;height:.8em;margin:0;transform:skewX(-
 @media (min-width:768px){
   html body .fl-band{padding:24px 24px 116px;}
   html body .fl-area{padding:0 24px 24px;gap:20px;margin-top:-96px;}
+  /* Jarak kepala: badge → judul 24px, judul → kalimat 16px */
+  html body .fl-kepala{gap:0;}
+  html body .fl-pill{margin-bottom:24px;}
+  html body .fl .fl-sub{margin-top:16px;}
 }
 @media (max-width:767.98px){
   html body .fl{display:block;min-height:0;padding:16px;}   /* HP: isi band/rel tetap memakai aturan HP yang sudah ada */
