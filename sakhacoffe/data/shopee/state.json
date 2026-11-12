@@ -1,0 +1,14 @@
+{
+  "list": {
+    "next_page": 0,
+    "finished": false,
+    "shopid": null
+  },
+  "detail": {
+    "done": [],
+    "failed": {}
+  },
+  "images": {
+    "failed": {}
+  }
+}

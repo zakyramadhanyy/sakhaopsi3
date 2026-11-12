@@ -1,0 +1,70 @@
+{
+  "excluded": [
+    "biji-kopi-arabica-uwu-apple-adagio-coffee-bean-bubuk-murni-arabika-coffe: stok habis, harga tidak tersedia di situs",
+    "biji-kopi-arabika-what-the-froothies-specialty-coffee-beans-arabica-coffe: stok habis, harga tidak tersedia di situs",
+    "HALU BERRY 96: harga kosong atau stok habis di situs",
+    "COSTA RICA CHOPIN AMOUR JARDIN: harga kosong atau stok habis di situs"
+  ],
+  "price_conflicts": [],
+  "no_category": [
+    "Arabika Tubruk Hitam Tanpa Gula"
+  ],
+  "image_errors": [],
+  "big_images": [],
+  "empty_origin": [
+    "Breakfast Blend",
+    "Gayo Blend",
+    "Gregory Blend",
+    "Aroma Gold",
+    "Arabika Tubruk Hitam Tanpa Gula",
+    "Es Kopi Susu Kekinian",
+    "Strong Black Coffee",
+    "Signature Espresso",
+    "Special Gold Blend",
+    "Paket Hemat Kopi V60 Manual Brew Set",
+    "7 Fruit Basket Drip Bag",
+    "Drip Bag Arabica Specialty",
+    "Hampers Special Edition 2"
+  ],
+  "empty_process": [
+    "Breakfast Blend",
+    "Gayo Blend",
+    "Gregory Blend",
+    "Aroma Gold",
+    "Arabika Tubruk Hitam Tanpa Gula",
+    "Es Kopi Susu Kekinian",
+    "Strong Black Coffee",
+    "Signature Espresso",
+    "Special Gold Blend",
+    "Gayo Luwak Liar",
+    "Paket Hemat Kopi V60 Manual Brew Set",
+    "7 Fruit Basket Drip Bag",
+    "Drip Bag Arabica Specialty",
+    "Hampers Special Edition 2"
+  ],
+  "empty_roast": [
+    "Robusta Temanggung Wine",
+    "Arabika Gayo Peaberry",
+    "Gayo Luwak Liar",
+    "Paket Hemat Kopi V60 Manual Brew Set",
+    "7 Fruit Basket Drip Bag",
+    "Drip Bag Arabica Specialty",
+    "Hampers Special Edition 2"
+  ],
+  "empty_notes": [
+    "100% Full Arabika",
+    "25% Arabika Gayo & 75% Robusta Jawa",
+    "50% Arabika Gayo & 50% Robusta Jawa",
+    "70% Arabika Gayo & 30% Robusta Jawa",
+    "75% Arabika Gayo & 25% Robusta Jawa",
+    "Full Robusta",
+    "Arabika Tubruk Hitam Tanpa Gula",
+    "Robusta Temanggung Wine",
+    "Arabika Gayo Peaberry",
+    "Robusta Toraja",
+    "Paket Hemat Kopi V60 Manual Brew Set",
+    "7 Fruit Basket Drip Bag",
+    "Drip Bag Arabica Specialty",
+    "Hampers Special Edition 2"
+  ]
+}

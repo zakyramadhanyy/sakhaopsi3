@@ -1,0 +1,4901 @@
+[
+  {
+    "id": "100-full-arabika",
+    "slug": "100-full-arabika",
+    "name": "100% Full Arabika",
+    "sourceName": "100% Full Arabika Biji Kopi Komersil by Sakha Coffee Roastery",
+    "url": "https://sakhacoffee.com/product/biji-kopi-100-full-arabica-commercial-espresso-based-by-sakha-coffee-roastery/",
+    "cat": "commodity-blend",
+    "catLabel": "Commodity Blend",
+    "price": 45000,
+    "oldPrice": 111900,
+    "img": "produk/100-full-arabika/1-400.webp",
+    "galeri": [
+      "produk/100-full-arabika/1.webp",
+      "produk/100-full-arabika/2.webp",
+      "produk/100-full-arabika/3.webp",
+      "produk/100-full-arabika/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 45000,
+        "o": 111900
+      },
+      "200": {
+        "p": 72000,
+        "o": 99900
+      },
+      "500": {
+        "p": 145000,
+        "o": 289900
+      },
+      "1000": {
+        "p": 215000,
+        "o": 349900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 7999,
+    "origin": "Full Arabika",
+    "process": "Semi Wash",
+    "roast": "Medium To Dark",
+    "komposisi": "",
+    "roastLevel": 4,
+    "notes": [],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Arabika Single Origin",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "25-arabika-gayo-75-robusta-jawa",
+    "slug": "25-arabika-gayo-75-robusta-jawa",
+    "name": "25% Arabika Gayo & 75% Robusta Jawa",
+    "sourceName": "25% Arabika Gayo & 75% Robusta Jawa Biji Kopi Komersil by Sakha Coffee Roastery",
+    "url": "https://sakhacoffee.com/product/biji-kopi-25-arabica-commercial-espresso-blend-by-sakha-coffee-roastery/",
+    "cat": "commodity-blend",
+    "catLabel": "Commodity Blend",
+    "price": 38000,
+    "oldPrice": 93900,
+    "img": "produk/25-arabika-gayo-75-robusta-jawa/1-400.webp",
+    "galeri": [
+      "produk/25-arabika-gayo-75-robusta-jawa/1.webp",
+      "produk/25-arabika-gayo-75-robusta-jawa/2.webp",
+      "produk/25-arabika-gayo-75-robusta-jawa/3.webp",
+      "produk/25-arabika-gayo-75-robusta-jawa/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 38000,
+        "o": 93900
+      },
+      "200": {
+        "p": 62000,
+        "o": 129900
+      },
+      "500": {
+        "p": 125000,
+        "o": 269900
+      },
+      "1000": {
+        "p": 195000,
+        "o": 434900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 7999,
+    "origin": "25% Arabika Gayo – 75% Robusta Java",
+    "process": "Semi Wash",
+    "roast": "Medium To Dark",
+    "komposisi": "",
+    "roastLevel": 4,
+    "notes": [],
+    "variety": "",
+    "altitude": "",
+    "jenis": "House Blend",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "p8",
+    "slug": "50-arabika-gayo-50-robusta-jawa",
+    "name": "50% Arabika Gayo & 50% Robusta Jawa",
+    "sourceName": "50% Arabika Gayo & 50% Robusta Jawa Biji Kopi Komersil by Sakha Coffee Roastery",
+    "url": "https://sakhacoffee.com/product/biji-kopi-50-arabica-ekonomis-espresso-blend-by-sakha-coffee-roastery/",
+    "cat": "commodity-blend",
+    "catLabel": "Commodity Blend",
+    "price": 40000,
+    "oldPrice": 107900,
+    "img": "produk/50-arabika-gayo-50-robusta-jawa/1-400.webp",
+    "galeri": [
+      "produk/50-arabika-gayo-50-robusta-jawa/1.webp",
+      "produk/50-arabika-gayo-50-robusta-jawa/2.webp",
+      "produk/50-arabika-gayo-50-robusta-jawa/3.webp",
+      "produk/50-arabika-gayo-50-robusta-jawa/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 40000,
+        "o": 107900
+      },
+      "200": {
+        "p": 65000,
+        "o": 95900
+      },
+      "500": {
+        "p": 133000,
+        "o": 275900
+      },
+      "1000": {
+        "p": 200000,
+        "o": 329900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 7999,
+    "origin": "50% Arabika Gayo – 50% Robusta Java",
+    "process": "Semi Wash",
+    "roast": "Medium To Dark",
+    "komposisi": "",
+    "roastLevel": 4,
+    "notes": [],
+    "variety": "",
+    "altitude": "",
+    "jenis": "House Blend",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "70-arabika-gayo-30-robusta-jawa",
+    "slug": "70-arabika-gayo-30-robusta-jawa",
+    "name": "70% Arabika Gayo & 30% Robusta Jawa",
+    "sourceName": "70% Arabika Gayo & 30% Robusta Jawa Biji Kopi Komersil by Sakha Coffee Roastery",
+    "url": "https://sakhacoffee.com/product/biji-kopi-70-arabica-commercial-espresso-based-by-sakha-coffee-roastery/",
+    "cat": "commodity-blend",
+    "catLabel": "Commodity Blend",
+    "price": 41000,
+    "oldPrice": 109900,
+    "img": "produk/70-arabika-gayo-30-robusta-jawa/1-400.webp",
+    "galeri": [
+      "produk/70-arabika-gayo-30-robusta-jawa/1.webp",
+      "produk/70-arabika-gayo-30-robusta-jawa/2.webp",
+      "produk/70-arabika-gayo-30-robusta-jawa/3.webp",
+      "produk/70-arabika-gayo-30-robusta-jawa/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 41000,
+        "o": 109900
+      },
+      "200": {
+        "p": 67000,
+        "o": 151900
+      },
+      "500": {
+        "p": 138000,
+        "o": 279900
+      },
+      "1000": {
+        "p": 205000,
+        "o": 479900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 500,
+    "origin": "70% Arabica & 30% Robusta",
+    "process": "Semi Wash",
+    "roast": "Medium To Dark",
+    "komposisi": "",
+    "roastLevel": 4,
+    "notes": [],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Arabika Single Origin",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "p7",
+    "slug": "75-arabika-gayo-25-robusta-jawa",
+    "name": "75% Arabika Gayo & 25% Robusta Jawa",
+    "sourceName": "75% Arabika Gayo & 25% Robusta Jawa Biji Kopi Komersil by Sakha Coffee Roastery",
+    "url": "https://sakhacoffee.com/product/biji-kopi-75-arabica-crema-espresso-blend-by-sakha-coffee-roastery/",
+    "cat": "commodity-blend",
+    "catLabel": "Commodity Blend",
+    "price": 43000,
+    "oldPrice": 109900,
+    "img": "produk/75-arabika-gayo-25-robusta-jawa/1-400.webp",
+    "galeri": [
+      "produk/75-arabika-gayo-25-robusta-jawa/1.webp",
+      "produk/75-arabika-gayo-25-robusta-jawa/2.webp",
+      "produk/75-arabika-gayo-25-robusta-jawa/3.webp",
+      "produk/75-arabika-gayo-25-robusta-jawa/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 43000,
+        "o": 109900
+      },
+      "200": {
+        "p": 69000,
+        "o": 97900
+      },
+      "500": {
+        "p": 140000,
+        "o": 279900
+      },
+      "1000": {
+        "p": 210000,
+        "o": 339900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 7999,
+    "origin": "75% Arabika Gayo – 25% Robusta Java",
+    "process": "Semi Wash",
+    "roast": "Medium To Dark",
+    "komposisi": "",
+    "roastLevel": 4,
+    "notes": [],
+    "variety": "",
+    "altitude": "",
+    "jenis": "House Blend",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "p11",
+    "slug": "honey-berry-sweety",
+    "name": "Honey Berry Sweety",
+    "sourceName": "Honey Berry Sweety Biji Kopi Arabika",
+    "url": "https://sakhacoffee.com/product/biji-kopi-arabica-honey-berry-sweety-specialty-arabika-sakha-coffee-roastery/",
+    "cat": "specialty-filter",
+    "catLabel": "Specialty Filter",
+    "price": 80000,
+    "oldPrice": 180900,
+    "img": "produk/honey-berry-sweety/1-400.webp",
+    "galeri": [
+      "produk/honey-berry-sweety/1.webp",
+      "produk/honey-berry-sweety/2.webp",
+      "produk/honey-berry-sweety/3.webp",
+      "produk/honey-berry-sweety/4.webp",
+      "produk/honey-berry-sweety/5.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 80000,
+        "o": 180900
+      },
+      "200": {
+        "p": 140000,
+        "o": 270900
+      },
+      "500": {
+        "p": 275000,
+        "o": 400900
+      },
+      "1000": {
+        "p": 480000,
+        "o": 698900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 1000,
+    "origin": "Kerinci, Jambi & Gayo, Aceh",
+    "process": "Honey & Natural Anaerobic",
+    "roast": "City Roast",
+    "komposisi": "",
+    "roastLevel": 3,
+    "notes": [
+      "Berries",
+      "Honey",
+      "Sweet aftertaste"
+    ],
+    "variety": "Mixed Variety",
+    "altitude": "1200+ MASL",
+    "jenis": "",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "Kopi ini adalah racikan filter blend dari dua origin di Sumatera, yaitu: Gayo Honey & Kerinci Natural Anaerob. Sudah terbayang rasanya?\nDidasari dari potensi kopi gayo honey yang menurut tim kami sangat menarik jika bisa develop lebih, kami terfikir untuk menambah sedikit rasa yang lebih “Punchy” dari kerinci anaerob natural. Karakter manis seperti madu dipadukan dengan sedikit fruity dari blueberry membuat kopi ini lebih menyenangkan.\nKopi ini hadir untuk para penikmat kopi harian dengan intensitas medium dan rasa yang menyegarkan.",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "p2",
+    "slug": "alexander-le-grape",
+    "name": "Alexander Le Grape",
+    "sourceName": "Alexander Le Grape Biji Kopi Arabika",
+    "url": "https://sakhacoffee.com/product/biji-kopi-arabika-alexander-le-grape-coffee-bean-arabica-bubuk-coffe/",
+    "cat": "specialty-filter",
+    "catLabel": "Specialty Filter",
+    "price": 85000,
+    "oldPrice": 129900,
+    "img": "produk/alexander-le-grape/1-400.webp",
+    "galeri": [
+      "produk/alexander-le-grape/1.webp",
+      "produk/alexander-le-grape/2.webp",
+      "produk/alexander-le-grape/3.webp",
+      "produk/alexander-le-grape/4.webp",
+      "produk/alexander-le-grape/5.webp",
+      "produk/alexander-le-grape/6.webp",
+      "produk/alexander-le-grape/7.webp"
+    ],
+    "added": "2026-10-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 85000,
+        "o": 129900
+      },
+      "200": {
+        "p": 150000,
+        "o": 239900
+      },
+      "500": {
+        "p": 295000,
+        "o": 399900
+      },
+      "1000": {
+        "p": 395000,
+        "o": 749900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 100,
+    "origin": "Argopuro, Jawa Timur",
+    "process": "Hermetically Sealed Natural",
+    "roast": "City Roast",
+    "komposisi": "",
+    "roastLevel": 3,
+    "notes": [
+      "Grape",
+      "Raspberry",
+      "Hints of orange"
+    ],
+    "variety": "Mixed Variety",
+    "altitude": "1500 MASL",
+    "jenis": "Arabika",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "Jika varian ukuran 100gr & 500gr tidak memakai box",
+    "sertHalal": "",
+    "pirt": "",
+    "ketahanan": [],
+    "desc": "Notes manisnya anggur dan texture yang nyaman, mengingatkan kami pada kisah Alexander The Great, Seorang Raja tersukses dari Kerajaan Yunani Kuno. Buah Anggur yang menjadi makanan para raja, menjadi buah simbolik dari kenyamanan atas kesuksesan Alexander The Great dalam memimpin.\nPada proses ini, buah kopi di fermentasi dalam wadah kedap udara (Hermetically Sealed) dengan fermentasi anaerob. Tanpa adanya oksigen, fermentasi ini akan menghasilkan enzim yang berguna untuk memecah belah kandungan gula dalam buah kopi yang pada akhirnya dapat dikontrol sesuai selera kami.",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": false
+  },
+  {
+    "id": "arabika-gayo-wine",
+    "slug": "arabika-gayo-wine",
+    "name": "Arabika Gayo Wine",
+    "sourceName": "Arabika Gayo Wine Biji Kopi Single Origin",
+    "url": "https://sakhacoffee.com/product/biji-kopi-arabika-gayo-wine-arabica-coffee-specialty-roast-beans-bubuk-coffe-bean-sakha-roastery/",
+    "cat": "single-origin",
+    "catLabel": "Single Origin",
+    "price": 65000,
+    "oldPrice": 129900,
+    "img": "produk/arabika-gayo-wine/1-400.webp",
+    "galeri": [
+      "produk/arabika-gayo-wine/1.webp",
+      "produk/arabika-gayo-wine/2.webp",
+      "produk/arabika-gayo-wine/3.webp",
+      "produk/arabika-gayo-wine/4.webp"
+    ],
+    "added": "2026-10-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 65000,
+        "o": 129900
+      },
+      "200": {
+        "p": 105000,
+        "o": 219900
+      },
+      "500": {
+        "p": 255000,
+        "o": 449900
+      },
+      "1000": {
+        "p": 345000,
+        "o": 849900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 498,
+    "origin": "Gayo, Aceh, Sumatra",
+    "process": "Wine",
+    "roast": "Medium / City Roast",
+    "komposisi": "",
+    "roastLevel": 3,
+    "notes": [
+      "Winey",
+      "Bittersweet chocolate",
+      "Ripe fruits",
+      "Sweet finish"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Arabica Specialty Coffee",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "Kopi wine rasanya seperti apa?\nTentu, ini bukan kopi yang mengandung alkohol seperti minuman wine yang dikenal selama ini. Ini kopi yang diproses secara khusus sehingga menghasilkan aroma dan rasanya yang katanya mirip wine. Aroma asam tercium dari biji kopi wine yang sudah diroasting. Rasa kopi ini asam dan segar.",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "arabika-malabar",
+    "slug": "arabika-malabar",
+    "name": "Arabika Malabar",
+    "sourceName": "Biji Kopi Arabika Malabar Single Origin",
+    "url": "https://sakhacoffee.com/product/biji-kopi-arabika-malabar-jawa-barat-bubuk-arabica-coffee-beans-coffe-roastery/",
+    "cat": "single-origin",
+    "catLabel": "Single Origin",
+    "price": 55000,
+    "oldPrice": 87900,
+    "img": "produk/arabika-malabar/1-400.webp",
+    "galeri": [
+      "produk/arabika-malabar/1.webp",
+      "produk/arabika-malabar/2.webp",
+      "produk/arabika-malabar/3.webp",
+      "produk/arabika-malabar/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 55000,
+        "o": 87900
+      },
+      "200": {
+        "p": 85000,
+        "o": 119900
+      },
+      "500": {
+        "p": 200000,
+        "o": 269900
+      },
+      "1000": {
+        "p": 285000,
+        "o": 699900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 2000,
+    "origin": "Gunung Malabar, Bandung, Jawa Barat",
+    "process": "Fullwash",
+    "roast": "Medium / Omni Roast",
+    "komposisi": "",
+    "roastLevel": 3,
+    "notes": [
+      "Fruity",
+      "Hints of floral",
+      "Chocolate"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Arabika",
+    "acidity": "Medium",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foill",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "arabika-papandayan",
+    "slug": "arabika-papandayan",
+    "name": "Arabika Papandayan",
+    "sourceName": "Biji Kopi Arabika Papandayan Single Origin",
+    "url": "https://sakhacoffee.com/product/biji-kopi-arabika-papandayan-arabica-coffee-bubuk-roast-beans-sakha-roastery/",
+    "cat": "single-origin",
+    "catLabel": "Single Origin",
+    "price": 55000,
+    "oldPrice": 85900,
+    "img": "produk/arabika-papandayan/1-400.webp",
+    "galeri": [
+      "produk/arabika-papandayan/1.webp",
+      "produk/arabika-papandayan/2.webp",
+      "produk/arabika-papandayan/3.webp",
+      "produk/arabika-papandayan/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 55000,
+        "o": 85900
+      },
+      "200": {
+        "p": 85000,
+        "o": 119900
+      },
+      "500": {
+        "p": 200000,
+        "o": 229900
+      },
+      "1000": {
+        "p": 285000,
+        "o": 399900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 1000,
+    "origin": "Gunung Papandayan, Jawa Barat",
+    "process": "Full Wash",
+    "roast": "Medium / City Roast",
+    "komposisi": "",
+    "roastLevel": 3,
+    "notes": [
+      "Lemonade",
+      "Caramel",
+      "Black tea"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Arabika",
+    "acidity": "Medium",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foill",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "p6",
+    "slug": "bleubailess-chocotart",
+    "name": "Bleubailess Chocotart",
+    "sourceName": "Bleubailess Chocotart Biji Kopi Arabika",
+    "url": "https://sakhacoffee.com/product/biji-kopi-bleubailess-chocotart-espressso-coffee-beans-sakha-coffee-roastery/",
+    "cat": "specialty-espresso",
+    "catLabel": "Specialty Espresso",
+    "price": 85000,
+    "oldPrice": 190000,
+    "img": "produk/bleubailess-chocotart/1-400.webp",
+    "galeri": [
+      "produk/bleubailess-chocotart/1.webp",
+      "produk/bleubailess-chocotart/2.webp",
+      "produk/bleubailess-chocotart/3.webp",
+      "produk/bleubailess-chocotart/4.webp",
+      "produk/bleubailess-chocotart/5.webp",
+      "produk/bleubailess-chocotart/6.webp",
+      "produk/bleubailess-chocotart/7.webp",
+      "produk/bleubailess-chocotart/8.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 85000,
+        "o": 190000
+      },
+      "200": {
+        "p": 150000,
+        "o": 290000
+      },
+      "500": {
+        "p": 295000,
+        "o": 400000
+      },
+      "1000": {
+        "p": 395000,
+        "o": 579900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 500,
+    "origin": "Kerinci, Jambi",
+    "process": "Anaerobic Natural",
+    "roast": "Full City",
+    "komposisi": "",
+    "roastLevel": 4,
+    "notes": [
+      "Blueberry",
+      "Cacao nibs",
+      "Cherry"
+    ],
+    "variety": "Mixed Variety",
+    "altitude": "1500 MASL",
+    "jenis": "",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "Jika varian ukuran 100gr, 500gr & 1kg tidak memakai box",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "",
+    "ketahanan": [],
+    "desc": "Hai, Sobat Brewer!\nSakha Coffee punya produk espresso based yang bakal manjain lidah kamu—kenalin nih:\nNikmati sensasi unik dari biji kopi house blend pilihan dengan cita rasa cokelat tart yang khas dan karakter espresso yang bold.\nCocok banget buat kamu yang suka kopi strong tapi tetap smooth\nTersedia dalam beberapa ukuran dan tingkat gilingan, tinggal sesuaikan sama gaya seduh kamu.\nYuk, rasain sensasi espresso yang beda dari biasanya. Jangan sampai kehabisan ya!\nIni adalah versi khusus dari \"Blueberry Wellcream\" yang kami profil ulang untuk sajian espresso dan turunannya. Diracik dengan pendekatan berbeda untuk memaksimalkan rasa dalam bentuk black maupun white.\nRasanya tetap mengedepankan karakter blueberry yang juicy dan segar, kini dipadukan dengan nuansa dark chocolate yang dalam. Perpaduan ini menciptakan sensasi manis, fruity, dan sedikit panit yang seimbang.\nMenariknya, karakter rasanya berubah tergantung cara kamu menyeduhnya. Disajikan sebagai black, rasanya tajam dan vibrant. Diminum sebagai white, jadi creamy dan lebih manis. Tapi satu hal pasti — blueberry-nya tetap jadi pusat perhatian.",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "arabika-jawa-java",
+    "slug": "arabika-jawa-java",
+    "name": "Arabika Jawa Java",
+    "sourceName": "Arabika Jawa Java Biji Kopi Single Origin",
+    "url": "https://sakhacoffee.com/product/biji-kopi-bubuk-arabika-jawa-java-arabica-coffee-beans-coffe/",
+    "cat": "single-origin",
+    "catLabel": "Single Origin",
+    "price": 55000,
+    "oldPrice": 89900,
+    "img": "produk/arabika-jawa-java/1-400.webp",
+    "galeri": [
+      "produk/arabika-jawa-java/1.webp",
+      "produk/arabika-jawa-java/2.webp",
+      "produk/arabika-jawa-java/3.webp",
+      "produk/arabika-jawa-java/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 55000,
+        "o": 89900
+      },
+      "200": {
+        "p": 85000,
+        "o": 119900
+      },
+      "500": {
+        "p": 200000,
+        "o": 299900
+      },
+      "1000": {
+        "p": 285000,
+        "o": 499900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 1002,
+    "origin": "Ijen, Jawa Timur",
+    "process": "Semi Wash",
+    "roast": "Medium / Omni Roast",
+    "komposisi": "",
+    "roastLevel": 3,
+    "notes": [
+      "Brown sugar",
+      "Malt",
+      "Chocolate",
+      "Sweet caramel after taste"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "ARABIKA",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "full-robusta",
+    "slug": "full-robusta",
+    "name": "Full Robusta",
+    "sourceName": "Full Robusta Biji Kopi Komersil by Sakha Coffee Roastery",
+    "url": "https://sakhacoffee.com/product/biji-kopi-fine-robusta-espresso-coffe-based-by-sakha-coffee-roastery/",
+    "cat": "commodity-blend",
+    "catLabel": "Commodity Blend",
+    "price": 37000,
+    "oldPrice": 89900,
+    "img": "produk/full-robusta/1-400.webp",
+    "galeri": [
+      "produk/full-robusta/1.webp",
+      "produk/full-robusta/2.webp",
+      "produk/full-robusta/3.webp",
+      "produk/full-robusta/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 37000,
+        "o": 89900
+      },
+      "200": {
+        "p": 60000,
+        "o": 119900
+      },
+      "500": {
+        "p": 120000,
+        "o": 255900
+      },
+      "1000": {
+        "p": 170000,
+        "o": 414900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 7999,
+    "origin": "Robusta Java",
+    "process": "Semi Wash",
+    "roast": "Medium To Dark",
+    "komposisi": "",
+    "roastLevel": 4,
+    "notes": [],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Robusta Single Origin",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "berrywave-karo",
+    "slug": "berrywave-karo",
+    "name": "Berrywave Karo",
+    "sourceName": "Berrywave Karo Biji Kopi Arabika",
+    "url": "https://sakhacoffee.com/product/biji-kopi-infused-berrywave-karo-arabica-coffee-specialty-roasted-beans-coffe/",
+    "cat": "specialty-filter",
+    "catLabel": "Specialty Filter",
+    "price": 100000,
+    "oldPrice": 219900,
+    "img": "produk/berrywave-karo/1-400.webp",
+    "galeri": [
+      "produk/berrywave-karo/1.webp",
+      "produk/berrywave-karo/2.webp",
+      "produk/berrywave-karo/3.webp",
+      "produk/berrywave-karo/4.webp",
+      "produk/berrywave-karo/5.webp",
+      "produk/berrywave-karo/6.webp"
+    ],
+    "added": "2026-10-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200
+    ],
+    "harga": {
+      "100": {
+        "p": 100000,
+        "o": 219900
+      },
+      "200": {
+        "p": 175000,
+        "o": 369900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 499,
+    "origin": "Karo, North Sumatra",
+    "process": "Wethulled Strawberry",
+    "roast": "City Roast",
+    "komposisi": "",
+    "roastLevel": 3,
+    "notes": [
+      "Strawberry",
+      "Prune",
+      "Chocolate"
+    ],
+    "variety": "Catimor",
+    "altitude": "1300 – 1600 MASL",
+    "jenis": "",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "Membagi stroberi dipercaya sebagai awal sebuah koneksi. Filosofi itu kami hadirkan di dalam kopi, sebuah medium sederhana untuk menyatukan dua orang. Seduh, bagi, dan biarkan rasanya berbicara.\nKopi Karo ini diproses dengan teknik strawberry-infused yang presisi. Menghadirkan rasa yang clean, clear, manis alami dengan sentuhan chocolaty dan aftertaste panjang. Seimbang, halus, dan mudah diingat.\nMelalui inovasi post-harvest, Sakha Coffee Roastery membuktikan bahwa kolaborasi biji kopi Karo dan teknologi proses mampu menciptakan dimensi rasa baru yang konsisten dan berbeda. Bukan sekadar kopi, tapi pengalaman.",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "p4",
+    "slug": "sun-of-peach",
+    "name": "Sun of Peach",
+    "sourceName": "Biji Kopi Infused SUN OF PEACH Arabica Coffee Specialty Roasted Beans Coffe by Sakha Coffee",
+    "url": "https://sakhacoffee.com/product/biji-kopi-infused-sun-of-peach-arabica-coffee-specialty-roasted-beans-coffe-by-sakha-coffee/",
+    "cat": "specialty-filter",
+    "catLabel": "Specialty Filter",
+    "price": 144900,
+    "oldPrice": null,
+    "img": "produk/sun-of-peach/1-400.webp",
+    "galeri": [
+      "produk/sun-of-peach/1.webp",
+      "produk/sun-of-peach/2.webp",
+      "produk/sun-of-peach/3.webp",
+      "produk/sun-of-peach/4.webp"
+    ],
+    "added": "2026-06-01",
+    "badge": "new",
+    "weight": 150,
+    "sizes": [
+      150
+    ],
+    "harga": {
+      "150": {
+        "p": 144900,
+        "o": null
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 100,
+    "origin": "Sumatra",
+    "process": "Wethulled Peach",
+    "roast": "City Roast",
+    "komposisi": "",
+    "roastLevel": 3,
+    "notes": [
+      "Peach",
+      "Brown sugar",
+      "Apricot",
+      "Spices"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Catimor",
+    "acidity": "Medium",
+    "body": "Medium",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "Beberapa kopi hadir untuk memenuhi kebutuhan kafein, namun Sun of Peach diciptakan untuk membawa Anda ke pengalaman yang lain. Kopi ini menawarkan sebuah rasa yang berbeda, sengaja dikurasi untuk kamu yang merindukan kejutan dari sebuah minuman yang biasanya konstan.\nSejak sesapan pertama, karakter buah peach yang cerah langsung mendominasi lidah, memberikan impresi menyegarkan yang seketika mengubah suasana. Kompleksitas rasa kemudian mengalir mulus melalui perpaduan aprikot, manisnya brown sugar, serta sentuhan tipis rempah yang membekas bersih di akhir. Profil rasa yang kaya ini hadir bukan untuk menjadi rumit, melainkan untuk mengingatkan kembali alasan mengapa kamu jatuh cinta pada kopi sejak awal.\nJika selama ini secangkir kopi pagi kamu terasa mulai monoton dan menjadi rutinitas, Sun of Peach hadir sebagai jawaban. Ini adalah momen untuk berhenti sejenak, mengeksplorasi rasa, dan merubah kebiasaan kopi harian kamu.",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "p10",
+    "slug": "victoria-la-marqueesa",
+    "name": "Victoria La Marqueesa",
+    "sourceName": "Biji Kopi Infused VICTORIA LA MARQUEESA Arabica Coffee Specialty Roasted Beans Coffe by Sakha Coffee",
+    "url": "https://sakhacoffee.com/product/biji-kopi-infused-victoria-la-marqueesa-arabica-coffee-specialty-roasted-beans-coffe-by-sakha-coffee/",
+    "cat": "specialty-filter",
+    "catLabel": "Specialty Filter",
+    "price": 144900,
+    "oldPrice": null,
+    "img": "produk/victoria-la-marqueesa/1-400.webp",
+    "galeri": [
+      "produk/victoria-la-marqueesa/1.webp",
+      "produk/victoria-la-marqueesa/2.webp",
+      "produk/victoria-la-marqueesa/3.webp",
+      "produk/victoria-la-marqueesa/4.webp"
+    ],
+    "added": "2026-06-01",
+    "badge": "new",
+    "weight": 150,
+    "sizes": [
+      150
+    ],
+    "harga": {
+      "150": {
+        "p": 144900,
+        "o": null
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 100,
+    "origin": "Sumatra",
+    "process": "Wethulled Passion Fruit",
+    "roast": "City Roast",
+    "komposisi": "",
+    "roastLevel": 3,
+    "notes": [
+      "Passion fruit",
+      "Vibrant tropicals",
+      "Blacktea",
+      "Green apple hint"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Catimor",
+    "acidity": "Medium",
+    "body": "Medium-Heavy",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "Beberapa kopi hadir untuk menemani rutinitas, namun Victoria La Marqueesa diciptakan untuk memberikan impresi yang membekas. Kopi ini menawarkan sebuah petualangan rasa yang berbeda, sengaja dikurasi untuk kamu yang mencari sesuatu yang benar-benar istimewa di dalam cangkir.\nSejak sesapan pertama, karakter markisa yang kuat dan tegas langsung mendominasi indera pengecap, memberikan kejutan rasa yang intens. Tidak lama setelah itu, kompleksitasnya mulai muncul melalui perpaduan rasa buah tropis yang segar, clean, dan meninggalkan rasa manis yang panjang. Profil rasa ini akan mendefinisikan ulang ekspektasi kamu terhadap karakter secangkir kopi buah.\nJika selama ini kamu merasa terjebak dengan rasa kopi yang konvensional dan itu-itu saja, Victoria La Marqueesa hadir sebagai jawaban. Ini bukan sekadar kopi pelengkap hari, melainkan sebuah standar baru dalam menikmati kopi eksperimental.",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "the-froothious-shot",
+    "slug": "the-froothious-shot",
+    "name": "The Froothious Shot",
+    "sourceName": "BIJI KOPI THE FROOTHIOUS SHOT Espresso Coffee Beans Kopi Bubuk Sakha Coffee Roastery",
+    "url": "https://sakhacoffee.com/product/biji-kopi-the-froothious-shot-espresso-coffee-beans-kopi-bubuk-sakha-coffee-roastery/",
+    "cat": "specialty-espresso",
+    "catLabel": "Specialty Espresso",
+    "price": 85000,
+    "oldPrice": 190000,
+    "img": "produk/the-froothious-shot/1-400.webp",
+    "galeri": [
+      "produk/the-froothious-shot/1.webp",
+      "produk/the-froothious-shot/2.webp",
+      "produk/the-froothious-shot/3.webp",
+      "produk/the-froothious-shot/4.webp",
+      "produk/the-froothious-shot/5.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "200": {
+        "p": 150000,
+        "o": 290000
+      },
+      "500": {
+        "p": 295000,
+        "o": 400000
+      },
+      "100": {
+        "p": 85000,
+        "o": 190000
+      },
+      "1000": {
+        "p": 395000,
+        "o": 749900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 2500,
+    "origin": "Halu Highland, West Java",
+    "process": "Honey Semi Anaerobic",
+    "roast": "Full City",
+    "komposisi": "",
+    "roastLevel": 4,
+    "notes": [
+      "Banana",
+      "Chocolate",
+      "Tropical fruit"
+    ],
+    "variety": "Mixed Variety",
+    "altitude": "1500 MASL",
+    "jenis": "",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "Jika varian ukuran 100gr dan 500gr tidak memakai box",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "",
+    "ketahanan": [],
+    "desc": "THE FROOTHIOUS SHOT – racikan house blend espresso based khas dari Sakha Coffee Roastery\nDiproses khusus untuk menghasilkan espresso shot yang balance antara keasaman buah dan body cokelat yang dalam. Cocok buat kamu yang suka kopi karakter kompleks & modern!\nIni adalah versi lanjutan dari What The Froothies dengan profile roasting espresso. Kopi ini akan menhighlight perpaduan susu dan kopi yang tak terlupakan.\nSensasi Pisang dan Coklat akan berpadu lembut dalam sajian minuman kopi dengan susu. Perpaduan ini memiliki sensasi manis yang kompleks dan juga seimbang.\nKopi ini juga memiliki hint kejutan di tegukannya, dimana akan ada hint berries yang menyempurnakan setiap sensasi pada kopi ini.",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "breakfast-blend",
+    "slug": "breakfast-blend",
+    "name": "Breakfast Blend",
+    "sourceName": "Breakfast Blend Espresso Coffee Bean Biji Bubuk Coffe by Sakha Coffee",
+    "url": "https://sakhacoffee.com/product/breakfast-blend-espresso-coffee-bean-biji-bubuk-coffe-by-sakha-coffee/",
+    "cat": "house-blend",
+    "catLabel": "House Blend",
+    "price": 46000,
+    "oldPrice": 149900,
+    "img": "produk/breakfast-blend/1-400.webp",
+    "galeri": [
+      "produk/breakfast-blend/1.webp",
+      "produk/breakfast-blend/2.webp",
+      "produk/breakfast-blend/3.webp",
+      "produk/breakfast-blend/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 46000,
+        "o": 149900
+      },
+      "200": {
+        "p": 81000,
+        "o": 199900
+      },
+      "500": {
+        "p": 165000,
+        "o": 349900
+      },
+      "1000": {
+        "p": 230000,
+        "o": 699900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 7999,
+    "origin": "",
+    "process": "",
+    "roast": "Full City",
+    "komposisi": "50% Arabika Gayo G1",
+    "roastLevel": 4,
+    "notes": [
+      "Brown sugar",
+      "Malt",
+      "Chocolate",
+      "Sweet caramel after taste"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "Pagimu belum sempurna jika belum diawali dengan kopi, bukan? Kini, BREAKFAST BLEND hadir untuk menemani sarapan pagimu sebelum melakukan aktivitas!\nSelain bisa dinikmati di rumah, Kopi Breakfast Blend ini juga sangat cocok untuk kebutuhan komersial. Contohnya, seperti di kedai-kedai kopi atau bisa juga untuk hotel-hotel yang umumnya menyajikan menu kopi bersamaan dengan sarapan pagi.\nApa perbedaan single origin dan house blend?\nPersepsi utama yang harus dijadikan patokan adalah single origin merupakan jenis kopi yang berasal dari satu daerah. Sedangkan coffe house blend merupakan percampuran kopi dari beberapa daerah. Bukan hanya percampuran beberapa daerah saja, namun juga bisa percampuran dari beberapa jenis kopi.\nUntuk kalian yang belum mempunyai alat giling kopi/grinder, tidak perlu khawatir karena Breakfast Blend ini sudah tersedia dalam bentuk Biji Kopi, maupun Bubuk Kopi. kalian bisa tentukan pilihan tersebut di menu varian giling.\n50% Robusta Java G1",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "chocorange-splash",
+    "slug": "chocorange-splash",
+    "name": "Chocorange Splash",
+    "sourceName": "Chocorange Splash Biji Kopi Arabika",
+    "url": "https://sakhacoffee.com/product/chocorange-splash-kopi-espresso-blend-arabica-biji-coffee-bubuk-murni/",
+    "cat": "specialty-espresso",
+    "catLabel": "Specialty Espresso",
+    "price": 75000,
+    "oldPrice": 159900,
+    "img": "produk/chocorange-splash/1-400.webp",
+    "galeri": [
+      "produk/chocorange-splash/1.webp",
+      "produk/chocorange-splash/2.webp",
+      "produk/chocorange-splash/3.webp",
+      "produk/chocorange-splash/4.webp",
+      "produk/chocorange-splash/5.webp",
+      "produk/chocorange-splash/6.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 75000,
+        "o": 159900
+      },
+      "200": {
+        "p": 135000,
+        "o": 279900
+      },
+      "500": {
+        "p": 210000,
+        "o": 449900
+      },
+      "1000": {
+        "p": 320000,
+        "o": 699900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 500,
+    "origin": "Arabika Kintamani 70% & Arabika Gayo Natural 30%",
+    "process": "Washed & Natural",
+    "roast": "Medium To Dark",
+    "komposisi": "",
+    "roastLevel": 4,
+    "notes": [
+      "Milk chocolate",
+      "Orange",
+      "Brown sugar"
+    ],
+    "variety": "Mixed Variety",
+    "altitude": "1200 – 1500 MASL",
+    "jenis": "Espresso Blend",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "Jika varian ukuran 100gr, 500gr dan 1kg tidak memakai box",
+    "sertHalal": "",
+    "pirt": "",
+    "ketahanan": [],
+    "desc": "Ketika cita rasa kopi bertemu dengan kenikmatan cokelat susu dan kesegaran jeruk, itulah saatnya untuk merasakan CHOCORANGE, produk terbaru kami yang akan memikat lidahmu dalam setiap tegukan\nKami ingin berbagi informasi menarik tentang produk terbaru kami, CHOCORANGE!\nMenurut riset kami, rasa yang paling diterima untuk americano adalah asam jeruk, sementara untuk cappuccino adalah milk chocolate. Kami bertujuan untuk mempermudah coffee shop yang hanya memiliki satu grinder espresso, tetapi ingin menyajikan minuman black atau white dengan rasa yang dapat dinikmati oleh pelanggan",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": false
+  },
+  {
+    "id": "gayo-blend",
+    "slug": "gayo-blend",
+    "name": "Gayo Blend",
+    "sourceName": "Gayo Blend Espresso Coffee Bean Biji Bubuk Coffe by Sakha Coffee",
+    "url": "https://sakhacoffee.com/product/gayo-blend-espresso-coffee-bean-biji-bubuk-coffe-by-sakha-coffee/",
+    "cat": "house-blend",
+    "catLabel": "House Blend",
+    "price": 46000,
+    "oldPrice": 149900,
+    "img": "produk/gayo-blend/1-400.webp",
+    "galeri": [
+      "produk/gayo-blend/1.webp",
+      "produk/gayo-blend/2.webp",
+      "produk/gayo-blend/3.webp",
+      "produk/gayo-blend/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 46000,
+        "o": 149900
+      },
+      "200": {
+        "p": 81000,
+        "o": 199900
+      },
+      "500": {
+        "p": 165000,
+        "o": 349900
+      },
+      "1000": {
+        "p": 230000,
+        "o": 699900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 7997,
+    "origin": "",
+    "process": "",
+    "roast": "Full City",
+    "komposisi": "50% Arabika Gayo G1",
+    "roastLevel": 4,
+    "notes": [
+      "Brown sugar",
+      "Malt",
+      "Chocolate",
+      "Sweet caramel after taste"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "Saat ini telah hadir Kopi House Blend dengan special origin Arabika Gayo dan Robusta Java\nSelain bisa dinikmati di rumah, Kopi Gayo House Blend ini juga sangat cocok untuk kebutuhan komersial. Contohnya, seperti di kedai-kedai kopi atau untuk di hotel dan perkantoran\nApa perbedaan single origin dan house blend?\nPersepsi utama yang harus dijadikan patokan adalah single origin merupakan jenis kopi yang berasal dari satu daerah. Sedangkan coffee house blend merupakan percampuran kopi dari beberapa daerah. Bukan hanya percampuran beberapa daerah saja, namun juga bisa percampuran dari beberapa jenis kopi.\nUntuk kalian yang belum mempunyai alat giling kopi/grinder, tidak perlu khawatir karena Gayo\nBlend ini sudah tersedia dalam bentuk Biji Kopi, maupun Bubuk Kopi. kalian bisa tentukan pilihan tersebut di menu varian giling.\n50% Robusta Java G1",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "glory-cherry-burst",
+    "slug": "glory-cherry-burst",
+    "name": "Glory Cherry Burst",
+    "sourceName": "Glory Chery Burst Biji Kopi Arabika",
+    "url": "https://sakhacoffee.com/product/glory-cherry-burst-ijen-lestari-biji-kopi-specialty-arabica-coffe-bean/",
+    "cat": "specialty-filter",
+    "catLabel": "Specialty Filter",
+    "price": 90000,
+    "oldPrice": 159900,
+    "img": "produk/glory-cherry-burst/1-400.webp",
+    "galeri": [
+      "produk/glory-cherry-burst/1.webp",
+      "produk/glory-cherry-burst/2.webp",
+      "produk/glory-cherry-burst/3.webp",
+      "produk/glory-cherry-burst/4.webp",
+      "produk/glory-cherry-burst/5.webp",
+      "produk/glory-cherry-burst/6.webp"
+    ],
+    "added": "2026-10-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200
+    ],
+    "harga": {
+      "100": {
+        "p": 90000,
+        "o": 159900
+      },
+      "200": {
+        "p": 165000,
+        "o": 279900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 1000,
+    "origin": "Ijen Highland, East Java",
+    "process": "Carbonic Maceration Natural",
+    "roast": "Light Roast",
+    "komposisi": "",
+    "roastLevel": 1,
+    "notes": [
+      "Cerry",
+      "Chocolate",
+      "Floral"
+    ],
+    "variety": "Usda 762, Kartika, Kobra",
+    "altitude": "1200 – 1600 MDPL",
+    "jenis": "Arabika Single Origin",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "",
+    "pirt": "",
+    "ketahanan": [],
+    "desc": "Rasakan sensasi segar kopi dengan sentuhan cherry yang menggoda. Setiap tegukan penuh kenikmatan menanti kamu.\nSakha Coffee kini hadir dengan produk baru yang memikat hati: GLORY CHERRY. Jadi, jangan lewatkan kesempatan untuk menikmati GLORY CHERRY, eksklusif hanya di Sakha Coffee.\nMengapa disebut GLORY CHERRY BURST? Karena apa yang kamu temui di cangkir, itulah yang kami hadirkan. Cherry manis yang langsung memikat lidahmu sejak pertama kali bertemu dengan kopi ini. Tekstur uniknya, ditambah dengan sedikit sentuhan sparkle, membuat kami yakin bahwa kopi ini akan selalu menjadi pilihan utama dalam setiap momen kamu.",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": false
+  },
+  {
+    "id": "arabika-bali-kintamani",
+    "slug": "arabika-bali-kintamani",
+    "name": "Arabika Bali Kintamani",
+    "sourceName": "Arabika Bali Kintamani Arabica Biji Kopi Single Origin",
+    "url": "https://sakhacoffee.com/product/kopi-arabika-bali-kintamani-arabica-coffee-bean-espresso-manual-brew-biji-bubuk-coffe-sakha-roastery/",
+    "cat": "single-origin",
+    "catLabel": "Single Origin",
+    "price": 60000,
+    "oldPrice": 89900,
+    "img": "produk/arabika-bali-kintamani/1-400.webp",
+    "galeri": [
+      "produk/arabika-bali-kintamani/1.webp",
+      "produk/arabika-bali-kintamani/2.webp",
+      "produk/arabika-bali-kintamani/3.webp",
+      "produk/arabika-bali-kintamani/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 60000,
+        "o": 89900
+      },
+      "200": {
+        "p": 90000,
+        "o": 129900
+      },
+      "500": {
+        "p": 210000,
+        "o": 269900
+      },
+      "1000": {
+        "p": 295000,
+        "o": 399900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 1000,
+    "origin": "KINTAMANI, Belantih, Bali",
+    "process": "Full Wash",
+    "roast": "Medium / Omni Roast",
+    "komposisi": "",
+    "roastLevel": 3,
+    "notes": [
+      "Chocolate",
+      "Nutty",
+      "Fruity",
+      "Lemon hint"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "ARABIKA",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "30/B.56/31.75.07.1004.04.015.R.4/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "arabika-bali-kintamani-natural",
+    "slug": "arabika-bali-kintamani-natural",
+    "name": "Arabika Bali Kintamani Natural",
+    "sourceName": "Kopi Arabika Bali Kintamani Natural Arabica Coffee Bean Biji Bubuk",
+    "url": "https://sakhacoffee.com/product/kopi-arabika-bali-kintamani-natural-arabica-coffee-bean-biji-bubuk/",
+    "cat": "single-origin",
+    "catLabel": "Single Origin",
+    "price": 65000,
+    "oldPrice": 159900,
+    "img": "produk/arabika-bali-kintamani-natural/1-400.webp",
+    "galeri": [
+      "produk/arabika-bali-kintamani-natural/1.webp",
+      "produk/arabika-bali-kintamani-natural/2.webp",
+      "produk/arabika-bali-kintamani-natural/3.webp",
+      "produk/arabika-bali-kintamani-natural/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "500": {
+        "p": 230000,
+        "o": 359900
+      },
+      "100": {
+        "p": 65000,
+        "o": 159900
+      },
+      "200": {
+        "p": 105000,
+        "o": 189900
+      },
+      "1000": {
+        "p": 335000,
+        "o": 649900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 7999,
+    "origin": "KINTAMANI, Belantih, Bali",
+    "process": "Natural Process",
+    "roast": "Medium / City Roast",
+    "komposisi": "",
+    "roastLevel": 3,
+    "notes": [
+      "Sweet tropical fruit",
+      "Orange",
+      "Guava",
+      "Clean after taste"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "ARABIKA",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "30/B.56/31.75.07.1004.04.015.R.4/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "p3",
+    "slug": "blueberry-well-cream",
+    "name": "Blueberry Well Cream",
+    "sourceName": "Blueberry Well Cream Biji Kopi Arabika",
+    "url": "https://sakhacoffee.com/product/kopi-arabika-blueberry-well-cream-coffee-bean-arabica-biji-bubuk-coffe/",
+    "cat": "specialty-filter",
+    "catLabel": "Specialty Filter",
+    "price": 85000,
+    "oldPrice": 150000,
+    "img": "produk/blueberry-well-cream/1-400.webp",
+    "galeri": [
+      "produk/blueberry-well-cream/1.webp",
+      "produk/blueberry-well-cream/2.webp",
+      "produk/blueberry-well-cream/3.webp",
+      "produk/blueberry-well-cream/4.webp",
+      "produk/blueberry-well-cream/5.webp",
+      "produk/blueberry-well-cream/6.webp",
+      "produk/blueberry-well-cream/7.webp"
+    ],
+    "added": "2026-10-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 85000,
+        "o": 150000
+      },
+      "200": {
+        "p": 150000,
+        "o": 259900
+      },
+      "500": {
+        "p": 295000,
+        "o": 400000
+      },
+      "1000": {
+        "p": 425000,
+        "o": 698900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 1000,
+    "origin": "Kerinci, Jambi",
+    "process": "Anaerobic Natural",
+    "roast": "Light Roast",
+    "komposisi": "",
+    "roastLevel": 1,
+    "notes": [
+      "Blueberry jam",
+      "Tropical fruit",
+      "Cherry",
+      "Floral"
+    ],
+    "variety": "Mixed Variety",
+    "altitude": "1500 MASL",
+    "jenis": "Arabika",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "arabika-brazil-cerrado",
+    "slug": "arabika-brazil-cerrado",
+    "name": "Arabika Brazil Cerrado",
+    "sourceName": "Arabika Brazil Cerrado Biji Kopi Single Origin",
+    "url": "https://sakhacoffee.com/product/kopi-arabika-brazil-cerrado-arabica-coffee-beans-biji-bubuk-coffe/",
+    "cat": "single-origin",
+    "catLabel": "Single Origin",
+    "price": 70000,
+    "oldPrice": 115900,
+    "img": "produk/arabika-brazil-cerrado/1-400.webp",
+    "galeri": [
+      "produk/arabika-brazil-cerrado/1.webp",
+      "produk/arabika-brazil-cerrado/2.webp",
+      "produk/arabika-brazil-cerrado/3.webp",
+      "produk/arabika-brazil-cerrado/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 70000,
+        "o": 115900
+      },
+      "200": {
+        "p": 105000,
+        "o": 199900
+      },
+      "500": {
+        "p": 255000,
+        "o": 399900
+      },
+      "1000": {
+        "p": 335000,
+        "o": 599900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 500,
+    "origin": "Cerrado Mineiro fine cup Brazil",
+    "process": "Washed",
+    "roast": "Medium",
+    "komposisi": "",
+    "roastLevel": 3,
+    "notes": [
+      "Chocolate",
+      "Caramel",
+      "Nutty"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "ARABIKA",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "arabika-flores-bajawa",
+    "slug": "arabika-flores-bajawa",
+    "name": "Arabika Flores Bajawa",
+    "sourceName": "Arabika Flores Bajawa Biji Kopi Single Origin",
+    "url": "https://sakhacoffee.com/product/kopi-arabika-flores-bajawa-arabica-coffee-bean-espresso-beans-dan-manual-brew-biji-bubuk-coffe/",
+    "cat": "single-origin",
+    "catLabel": "Single Origin",
+    "price": 60000,
+    "oldPrice": 89900,
+    "img": "produk/arabika-flores-bajawa/1-400.webp",
+    "galeri": [
+      "produk/arabika-flores-bajawa/1.webp",
+      "produk/arabika-flores-bajawa/2.webp",
+      "produk/arabika-flores-bajawa/3.webp",
+      "produk/arabika-flores-bajawa/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 60000,
+        "o": 89900
+      },
+      "200": {
+        "p": 90000,
+        "o": 119900
+      },
+      "500": {
+        "p": 210000,
+        "o": 233900
+      },
+      "1000": {
+        "p": 295000,
+        "o": 399900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 300,
+    "origin": "Bajawa, Flores, Nusa Tenggara Timur",
+    "process": "Fullwash",
+    "roast": "Medium / Omni Roast",
+    "komposisi": "",
+    "roastLevel": 3,
+    "notes": [
+      "Hint of orange",
+      "Almond",
+      "Chocolate",
+      "Medium acidity",
+      "Medium body"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Arabika",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [
+      "Kami menjamin produk kami fresh roasted, maksimal 5 hari resting sejak tanggal pemesanan.",
+      "Masa Kadaluarsa produk kami itu 1 Tahun sejak tanggal pemesanan. Untuk mendapatkan rasa yang optimal, segera konsumsi dalam 0 – 2 Bulan sejak kemasan dibuka."
+    ],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "arabika-gayo-aceh",
+    "slug": "arabika-gayo-aceh",
+    "name": "Arabika Gayo Aceh",
+    "sourceName": "Arabika Gayo Aceh Biji Kopi Single Origin",
+    "url": "https://sakhacoffee.com/product/kopi-arabika-gayo-aceh-arabica-coffee-espresso-dan-manual-brew-roast-beans-biji-bubuk-coffe-roastery/",
+    "cat": "single-origin",
+    "catLabel": "Single Origin",
+    "price": 55000,
+    "oldPrice": 99900,
+    "img": "produk/arabika-gayo-aceh/1-400.webp",
+    "galeri": [
+      "produk/arabika-gayo-aceh/1.webp",
+      "produk/arabika-gayo-aceh/2.webp",
+      "produk/arabika-gayo-aceh/3.webp",
+      "produk/arabika-gayo-aceh/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 55000,
+        "o": 99900
+      },
+      "200": {
+        "p": 85000,
+        "o": 119900
+      },
+      "500": {
+        "p": 205000,
+        "o": 239900
+      },
+      "1000": {
+        "p": 285000,
+        "o": 499900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 3017,
+    "origin": "Gayo, Aceh, Sumatra",
+    "process": "Semi Wash",
+    "roast": "Medium / Omni Roast",
+    "komposisi": "",
+    "roastLevel": 3,
+    "notes": [
+      "Brown sugar",
+      "Dark chocolate",
+      "Sweet",
+      "Orange zest",
+      "Citrus"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Arabika",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [
+      "Kami menjamin produk kami fresh roasted, maksimal 5 hari resting sejak tanggal pemesanan.",
+      "Masa Kadaluarsa produk kami itu 1 Tahun sejak tanggal pemesanan. Untuk mendapatkan rasa yang optimal, segera konsumsi dalam 0 – 2 Bulan sejak kemasan dibuka."
+    ],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "arabika-gayo-honey",
+    "slug": "arabika-gayo-honey",
+    "name": "Arabika Gayo Honey",
+    "sourceName": "Biji Kopi Arabika Gayo Honey Single Origin",
+    "url": "https://sakhacoffee.com/product/kopi-arabika-gayo-honey-arabica-coffee-roast-beans-manual-brew-biji-bubuk/",
+    "cat": "single-origin",
+    "catLabel": "Single Origin",
+    "price": 60000,
+    "oldPrice": 129900,
+    "img": "produk/arabika-gayo-honey/1-400.webp",
+    "galeri": [
+      "produk/arabika-gayo-honey/1.webp",
+      "produk/arabika-gayo-honey/2.webp",
+      "produk/arabika-gayo-honey/3.webp",
+      "produk/arabika-gayo-honey/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 60000,
+        "o": 129900
+      },
+      "200": {
+        "p": 95000,
+        "o": 199900
+      },
+      "500": {
+        "p": 215000,
+        "o": 449900
+      },
+      "1000": {
+        "p": 300000,
+        "o": 829900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 2000,
+    "origin": "Gayo, Aceh, Sumatra",
+    "process": "Honey",
+    "roast": "Medium / City Roast",
+    "komposisi": "",
+    "roastLevel": 3,
+    "notes": [
+      "Honey",
+      "Chocolate",
+      "Pineapple",
+      "Black cerry"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Arabica Specialty Coffee",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [
+      "Kami menjamin produk kami fresh roasted, maksimal 5 hari resting sejak tanggal pemesanan.",
+      "Masa Kadaluarsa produk kami itu 1 Tahun sejak tanggal pemesanan. Untuk mendapatkan rasa yang optimal, segera konsumsi dalam 0 – 2 Bulan sejak kemasan dibuka."
+    ],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "arabika-gayo-natural",
+    "slug": "arabika-gayo-natural",
+    "name": "Arabika Gayo Natural",
+    "sourceName": "Biji Kopi Arabika Gayo Natural Single Origin",
+    "url": "https://sakhacoffee.com/product/kopi-arabika-gayo-natural-arabica-coffee-roast-beans-manual-brew-biji-bubuk/",
+    "cat": "single-origin",
+    "catLabel": "Single Origin",
+    "price": 60000,
+    "oldPrice": 129900,
+    "img": "produk/arabika-gayo-natural/1-400.webp",
+    "galeri": [
+      "produk/arabika-gayo-natural/1.webp",
+      "produk/arabika-gayo-natural/2.webp",
+      "produk/arabika-gayo-natural/3.webp",
+      "produk/arabika-gayo-natural/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 60000,
+        "o": 129900
+      },
+      "200": {
+        "p": 95000,
+        "o": 199900
+      },
+      "500": {
+        "p": 215000,
+        "o": 449900
+      },
+      "1000": {
+        "p": 300000,
+        "o": 849900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 1000,
+    "origin": "Gayo, Aceh, Sumatra",
+    "process": "Natural",
+    "roast": "Medium / City Roast",
+    "komposisi": "",
+    "roastLevel": 3,
+    "notes": [
+      "Tropical fruit",
+      "Chocolate",
+      "Red grape"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Arabica Specialty Coffee",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "gregory-blend",
+    "slug": "gregory-blend",
+    "name": "Gregory Blend",
+    "sourceName": "Gregory Blend Espresso Coffee Bean Biji Bubuk Coffe by Sakha Coffee",
+    "url": "https://sakhacoffee.com/product/kopi-arabika-gregory-espresso-blend-arabica-coffe-bean-biji-bubuk/",
+    "cat": "house-blend",
+    "catLabel": "House Blend",
+    "price": 52000,
+    "oldPrice": 119900,
+    "img": "produk/gregory-blend/1-400.webp",
+    "galeri": [
+      "produk/gregory-blend/1.webp",
+      "produk/gregory-blend/2.webp",
+      "produk/gregory-blend/3.webp",
+      "produk/gregory-blend/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 52000,
+        "o": 119900
+      },
+      "200": {
+        "p": 85000,
+        "o": 179900
+      },
+      "500": {
+        "p": 200000,
+        "o": 424900
+      },
+      "1000": {
+        "p": 280000,
+        "o": 699900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 1000,
+    "origin": "",
+    "process": "",
+    "roast": "Full City",
+    "komposisi": "50% Arabika Gayo G1",
+    "roastLevel": 4,
+    "notes": [
+      "Citrus",
+      "Milky",
+      "Chocolate malt",
+      "Berry"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "30/B.56/31.75.07.1004.04.015.R.4/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "Ingin mencoba experience baru bersama perpaduan kopi dengan rasa yang juara? Kini kami tersedia ESPRESSO HOUSE BLEND dengan komposisi FULL ARABIKA yang kehadirannya sangat ditunggu – tunggu, loh! Dengan keseimbangan karakter rasa fruity yang dimiliki, kopi house blend ini cocok sekali untuk kebutuhan espresso based Anda. Pencampuran susu, gula aren, atau bahan lainnya juga akan menambah kepuasan dan kenikmatan dalam mengeksplorasi rasa kopi.\n50% Arabika Toraja G1",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "arabika-java-preanger-tilu-pangalengan",
+    "slug": "arabika-java-preanger-tilu-pangalengan",
+    "name": "Arabika Java Preanger Tilu Pangalengan",
+    "sourceName": "Biji Kopi Arabika Java Preanger Tilu Pangalengan Single Origin",
+    "url": "https://sakhacoffee.com/product/kopi-arabika-java-preanger-tilu-pangalengan-tiwus-arabica-coffee-bean-biji-bubuk-coffe-roasted-beans/",
+    "cat": "single-origin",
+    "catLabel": "Single Origin",
+    "price": 55000,
+    "oldPrice": 110900,
+    "img": "produk/arabika-java-preanger-tilu-pangalengan/1-400.webp",
+    "galeri": [
+      "produk/arabika-java-preanger-tilu-pangalengan/1.webp",
+      "produk/arabika-java-preanger-tilu-pangalengan/2.webp",
+      "produk/arabika-java-preanger-tilu-pangalengan/3.webp",
+      "produk/arabika-java-preanger-tilu-pangalengan/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 55000,
+        "o": 110900
+      },
+      "200": {
+        "p": 85000,
+        "o": 149900
+      },
+      "500": {
+        "p": 200000,
+        "o": 299900
+      },
+      "1000": {
+        "p": 285000,
+        "o": 459900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 1001,
+    "origin": "Pangalengan / Java Preanger Tilu, Jawa Barat",
+    "process": "Semi Wash",
+    "roast": "Medium / Omni Roast",
+    "komposisi": "",
+    "roastLevel": 3,
+    "notes": [
+      "Orange zest",
+      "Citrus",
+      "Brown sugar"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Arabika",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [
+      "Kami menjamin produk kami fresh roasted, maksimal 5 hari resting sejak tanggal pemesanan.",
+      "Masa Kadaluarsa produk kami itu 1 Tahun sejak tanggal pemesanan. Untuk mendapatkan rasa yang optimal, segera konsumsi dalam 0 – 2 Bulan sejak kemasan dibuka."
+    ],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "arabika-kerinci",
+    "slug": "arabika-kerinci",
+    "name": "Arabika Kerinci",
+    "sourceName": "Arabika Kerinci Biji Kopi Single Origin",
+    "url": "https://sakhacoffee.com/product/kopi-arabika-kerinci-sumatra-arabica-coffee-roast-bean-biji-bubuk-sakha-coffe-roastery/",
+    "cat": "single-origin",
+    "catLabel": "Single Origin",
+    "price": 55000,
+    "oldPrice": 89900,
+    "img": "produk/arabika-kerinci/1-400.webp",
+    "galeri": [
+      "produk/arabika-kerinci/1.webp",
+      "produk/arabika-kerinci/2.webp",
+      "produk/arabika-kerinci/3.webp",
+      "produk/arabika-kerinci/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 55000,
+        "o": 89900
+      },
+      "200": {
+        "p": 85000,
+        "o": 119900
+      },
+      "500": {
+        "p": 200000,
+        "o": 233900
+      },
+      "1000": {
+        "p": 285000,
+        "o": 399900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 7209,
+    "origin": "Kerinci, Jambi, Sumatra",
+    "process": "Full Wash",
+    "roast": "Medium / Omni Roast",
+    "komposisi": "",
+    "roastLevel": 3,
+    "notes": [
+      "Floral",
+      "Malty sweetnees",
+      "Grape acidity"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Arabika",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [
+      "Kami menjamin produk kami fresh roasted, maksimal 5 hari resting sejak tanggal pemesanan.",
+      "Masa Kadaluarsa produk kami itu 1 Tahun sejak tanggal pemesanan. Untuk mendapatkan rasa yang optimal, segera konsumsi dalam 0 – 2 Bulan sejak kemasan dibuka."
+    ],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "arabika-lintong-sumatra",
+    "slug": "arabika-lintong-sumatra",
+    "name": "Arabika Lintong Sumatra",
+    "sourceName": "Arabika Lintong Sumatra Biji Kopi Single Origin",
+    "url": "https://sakhacoffee.com/product/kopi-arabika-lintong-sumatra-arabica-coffee-bean-biji-bubuk-coffe-bean-roastery/",
+    "cat": "single-origin",
+    "catLabel": "Single Origin",
+    "price": 55000,
+    "oldPrice": 99900,
+    "img": "produk/arabika-lintong-sumatra/1-400.webp",
+    "galeri": [
+      "produk/arabika-lintong-sumatra/1.webp",
+      "produk/arabika-lintong-sumatra/2.webp",
+      "produk/arabika-lintong-sumatra/3.webp",
+      "produk/arabika-lintong-sumatra/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 55000,
+        "o": 99900
+      },
+      "200": {
+        "p": 85000,
+        "o": 149900
+      },
+      "500": {
+        "p": 200000,
+        "o": 269900
+      },
+      "1000": {
+        "p": 285000,
+        "o": 429900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 7205,
+    "origin": "Lintong, Batak, Sumatra",
+    "process": "Semi Wash",
+    "roast": "Medium / Omni Roast",
+    "komposisi": "",
+    "roastLevel": 3,
+    "notes": [
+      "Dark chocolate",
+      "Caramel",
+      "Orange hint",
+      "Nutmeg"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Arabika",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [
+      "Kami menjamin produk kami fresh roasted, maksimal 5 hari resting sejak tanggal pemesanan.",
+      "Masa Kadaluarsa produk kami itu 1 Tahun sejak tanggal pemesanan. Untuk mendapatkan rasa yang optimal, segera konsumsi dalam 0 – 2 Bulan sejak kemasan dibuka."
+    ],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "arabika-mandailing",
+    "slug": "arabika-mandailing",
+    "name": "Arabika Mandailing",
+    "sourceName": "Biji Kopi Arabika Mandailing Single Origin",
+    "url": "https://sakhacoffee.com/product/kopi-arabika-mandailing-mandheling-arabica-coffee-beans-roast-bean-biji-bubuk-sakha-coffe-roastery/",
+    "cat": "single-origin",
+    "catLabel": "Single Origin",
+    "price": 55000,
+    "oldPrice": 89900,
+    "img": "produk/arabika-mandailing/1-400.webp",
+    "galeri": [
+      "produk/arabika-mandailing/1.webp",
+      "produk/arabika-mandailing/2.webp",
+      "produk/arabika-mandailing/3.webp",
+      "produk/arabika-mandailing/4.webp"
+    ],
+    "added": "2026-10-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 55000,
+        "o": 89900
+      },
+      "200": {
+        "p": 85000,
+        "o": 119900
+      },
+      "500": {
+        "p": 200000,
+        "o": 233900
+      },
+      "1000": {
+        "p": 285000,
+        "o": 499900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 2500,
+    "origin": "Mandailing, Sumatra",
+    "process": "Semi Wash",
+    "roast": "Medium / Omni Roast",
+    "komposisi": "",
+    "roastLevel": 3,
+    "notes": [
+      "Sweet caramel",
+      "Spices",
+      "Hint of dark chocolate"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Arabika",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [
+      "Kami menjamin produk kami fresh roasted, maksimal 5 hari resting sejak tanggal pemesanan.",
+      "Masa Kadaluarsa produk kami itu 1 Tahun sejak tanggal pemesanan. Untuk mendapatkan rasa yang optimal, segera konsumsi dalam 0 – 2 Bulan sejak kemasan dibuka."
+    ],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "p1",
+    "slug": "moonlime-jennifer",
+    "name": "Moonlime Jennifer",
+    "sourceName": "Moonlime Jennifer Biji Kopi Arabika",
+    "url": "https://sakhacoffee.com/product/kopi-arabika-moonlime-jennifer-arabica-coffee-beans-biji-bubuk-coffe-bean/",
+    "cat": "specialty-filter",
+    "catLabel": "Specialty Filter",
+    "price": 75000,
+    "oldPrice": 149900,
+    "img": "produk/moonlime-jennifer/1-400.webp",
+    "galeri": [
+      "produk/moonlime-jennifer/1.webp",
+      "produk/moonlime-jennifer/2.webp",
+      "produk/moonlime-jennifer/3.webp",
+      "produk/moonlime-jennifer/4.webp",
+      "produk/moonlime-jennifer/5.webp",
+      "produk/moonlime-jennifer/6.webp",
+      "produk/moonlime-jennifer/7.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 75000,
+        "o": 149900
+      },
+      "200": {
+        "p": 140000,
+        "o": 259900
+      },
+      "500": {
+        "p": 280000,
+        "o": 459900
+      },
+      "1000": {
+        "p": 375000,
+        "o": 849900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 2000,
+    "origin": "Kintamani Highland",
+    "process": "Classic Natural",
+    "roast": "City Roast",
+    "komposisi": "",
+    "roastLevel": 3,
+    "notes": [
+      "Lime",
+      "Sugarcan",
+      "Sweet aftertaste"
+    ],
+    "variety": "Mixed Variety",
+    "altitude": "1500 MDPL",
+    "jenis": "Arabika",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "Jika varian ukuran 100gr tidak memakai box",
+    "sertHalal": "",
+    "pirt": "",
+    "ketahanan": [],
+    "desc": "Kami baru sadar, setiap mengkonsumsi kopi ini mengingatkan kami pada momen bersantai dibawah cahaya bulan. Rasa Lime yang kami dapatkan pada taste note kopi ini sangat tepat dinikmati di dalam moment kebersamaan.\nWomen yang terkenang ini kami cantumkan pada judul di Kopi ini, “Moonlime”. Sebuah wordplay dari “MoonLight”, dan rasa lime kami gambakan dengan “Jennifer”, atau Jeruk Nipis Peras.\nJangan habiskan Moonlime Jennifer sendirian!\nNikmati bersama orang yang kau sayangi!",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": false
+  },
+  {
+    "id": "arabika-papua-wamena",
+    "slug": "arabika-papua-wamena",
+    "name": "Arabika Papua Wamena",
+    "sourceName": "Biji Kopi Arabika Papua Wamena Single Origin",
+    "url": "https://sakhacoffee.com/product/kopi-arabika-papua-wamena-arabica-coffee-roast-bean-espresso-dan-manual-brew-biji-bubuk-coffe-sakha/",
+    "cat": "single-origin",
+    "catLabel": "Single Origin",
+    "price": 60000,
+    "oldPrice": 109900,
+    "img": "produk/arabika-papua-wamena/1-400.webp",
+    "galeri": [
+      "produk/arabika-papua-wamena/1.webp",
+      "produk/arabika-papua-wamena/2.webp",
+      "produk/arabika-papua-wamena/3.webp",
+      "produk/arabika-papua-wamena/4.webp"
+    ],
+    "added": "2026-10-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 60000,
+        "o": 109900
+      },
+      "200": {
+        "p": 90000,
+        "o": 159900
+      },
+      "500": {
+        "p": 210000,
+        "o": 249900
+      },
+      "1000": {
+        "p": 295000,
+        "o": 459900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 1000,
+    "origin": "Wamena, Papua",
+    "process": "Semiwash",
+    "roast": "Medium / Omni Roast",
+    "komposisi": "",
+    "roastLevel": 3,
+    "notes": [
+      "Caramel",
+      "Chocolatey",
+      "Brown sugar",
+      "Floral",
+      "Bright and clean delicate sweetness"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Arabika",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [
+      "Kami menjamin produk kami fresh roasted, maksimal 5 hari resting sejak tanggal pemesanan.",
+      "Masa Kadaluarsa produk kami itu 1 Tahun sejak tanggal pemesanan. Untuk mendapatkan rasa yang optimal, segera konsumsi dalam 0 – 2 Bulan sejak kemasan dibuka."
+    ],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "arabika-semendo",
+    "slug": "arabika-semendo",
+    "name": "Arabika Semendo",
+    "sourceName": "Arabika Semendo Biji Kopi Single Origin",
+    "url": "https://sakhacoffee.com/product/kopi-arabika-semendo-arabica-espresso-coffee-beans-biji-bubuk-coffe/",
+    "cat": "single-origin",
+    "catLabel": "Single Origin",
+    "price": 55000,
+    "oldPrice": 129900,
+    "img": "produk/arabika-semendo/1-400.webp",
+    "galeri": [
+      "produk/arabika-semendo/1.webp",
+      "produk/arabika-semendo/2.webp",
+      "produk/arabika-semendo/3.webp",
+      "produk/arabika-semendo/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 55000,
+        "o": 129900
+      },
+      "200": {
+        "p": 85000,
+        "o": 159900
+      },
+      "500": {
+        "p": 200000,
+        "o": 269900
+      },
+      "1000": {
+        "p": 285000,
+        "o": 498900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 7987,
+    "origin": "Semendo, Sumatra",
+    "process": "Semi Wash",
+    "roast": "Medium / Omni Roast",
+    "komposisi": "",
+    "roastLevel": 3,
+    "notes": [
+      "Tropical fruit",
+      "Brown sugar",
+      "Sweetness long"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Arabika",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foill",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "arabika-toraja",
+    "slug": "arabika-toraja",
+    "name": "Arabika Toraja",
+    "sourceName": "Biji Kopi Arabika Toraja Single Origin",
+    "url": "https://sakhacoffee.com/product/kopi-arabika-toraja-sulawesi-arabica-coffee-roast-bean-espresso-manual-brew-biji-bubuk-coffe-sakha/",
+    "cat": "single-origin",
+    "catLabel": "Single Origin",
+    "price": 60000,
+    "oldPrice": 119900,
+    "img": "produk/arabika-toraja/1-400.webp",
+    "galeri": [
+      "produk/arabika-toraja/1.webp",
+      "produk/arabika-toraja/2.webp",
+      "produk/arabika-toraja/3.webp",
+      "produk/arabika-toraja/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 60000,
+        "o": 119900
+      },
+      "200": {
+        "p": 90000,
+        "o": 169900
+      },
+      "500": {
+        "p": 210000,
+        "o": 233900
+      },
+      "1000": {
+        "p": 295000,
+        "o": 399900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 500,
+    "origin": "Tana Toraja, Sulawesi",
+    "process": "Semi Wash",
+    "roast": "Medium / Omni Roast",
+    "komposisi": "",
+    "roastLevel": 3,
+    "notes": [
+      "Brown sugar",
+      "Chocolate",
+      "Milky",
+      "Chocolate malt",
+      "Sweet",
+      "Berry"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Arabika",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [
+      "Kami menjamin produk kami fresh roasted, maksimal 5 hari resting sejak tanggal pemesanan.",
+      "Masa Kadaluarsa produk kami itu 1 Tahun sejak tanggal pemesanan. Untuk mendapatkan rasa yang optimal, segera konsumsi dalam 0 – 2 Bulan sejak kemasan dibuka."
+    ],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "aroma-gold",
+    "slug": "aroma-gold",
+    "name": "Aroma Gold",
+    "sourceName": "Aroma Gold Biji Kopi House Blend",
+    "url": "https://sakhacoffee.com/product/kopi-aroma-gold-espresso-blend-coffee-beans-25-arabika-75-robusta-coffe-biji-bubuk/",
+    "cat": "house-blend",
+    "catLabel": "House Blend",
+    "price": 39000,
+    "oldPrice": 84900,
+    "img": "produk/aroma-gold/1-400.webp",
+    "galeri": [
+      "produk/aroma-gold/1.webp",
+      "produk/aroma-gold/2.webp",
+      "produk/aroma-gold/3.webp",
+      "produk/aroma-gold/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 39000,
+        "o": 84900
+      },
+      "200": {
+        "p": 62000,
+        "o": 159900
+      },
+      "500": {
+        "p": 124000,
+        "o": 259900
+      },
+      "1000": {
+        "p": 200000,
+        "o": 469900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 8080,
+    "origin": "",
+    "process": "",
+    "roast": "Medium To Dark / Full City",
+    "komposisi": "25% Arabica & 75% Robusta",
+    "roastLevel": 4,
+    "notes": [
+      "Brown sugar",
+      "Malt",
+      "Chocolate",
+      "Sweet caramel after taste"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [
+      "Kami menjamin produk kami fresh roasted, maksimal 5 hari resting sejak tanggal pemesanan.",
+      "Masa Kadaluarsa produk kami itu 1 Tahun sejak tanggal pemesanan. Untuk mendapatkan rasa yang optimal, segera konsumsi dalam 0 – 2 Bulan sejak kemasan dibuka."
+    ],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "arabika-tubruk-hitam-tanpa-gula",
+    "slug": "arabika-tubruk-hitam-tanpa-gula",
+    "name": "Arabika Tubruk Hitam Tanpa Gula",
+    "sourceName": "Kopi Bubuk Arabika Tubruk Hitam Tanpa Gula",
+    "url": "https://sakhacoffee.com/product/kopi-bubuk-tubruk-hitam-tanpa-gula-arabika-arabica-coffee-blend-coffe/",
+    "cat": "lainnya",
+    "catLabel": "Lainnya",
+    "price": 25000,
+    "oldPrice": 59900,
+    "img": "produk/arabika-tubruk-hitam-tanpa-gula/1-400.webp",
+    "galeri": [
+      "produk/arabika-tubruk-hitam-tanpa-gula/1.webp",
+      "produk/arabika-tubruk-hitam-tanpa-gula/2.webp",
+      "produk/arabika-tubruk-hitam-tanpa-gula/3.webp",
+      "produk/arabika-tubruk-hitam-tanpa-gula/4.webp",
+      "produk/arabika-tubruk-hitam-tanpa-gula/5.webp",
+      "produk/arabika-tubruk-hitam-tanpa-gula/6.webp"
+    ],
+    "added": "2026-04-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200
+    ],
+    "harga": {
+      "100": {
+        "p": 25000,
+        "o": 59900
+      },
+      "200": {
+        "p": 55000,
+        "o": 119900
+      }
+    },
+    "grinds": null,
+    "opsiLabel": null,
+    "stock": 100,
+    "origin": "",
+    "process": "",
+    "roast": "Dark Roast / Full City +",
+    "komposisi": "",
+    "roastLevel": 5,
+    "notes": [],
+    "variety": "",
+    "altitude": "",
+    "jenis": "100% Arabika Espresso Blend",
+    "acidity": "",
+    "body": "",
+    "packaging": "Alumunium Foil Ziplock",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "es-kopi-susu-kekinian",
+    "slug": "es-kopi-susu-kekinian",
+    "name": "Es Kopi Susu Kekinian",
+    "sourceName": "Es Kopi Susu Kekinian Biji Kopi House Blend",
+    "url": "https://sakhacoffee.com/product/kopi-espresso-blend-es-kopi-susu-kekinian-coffee-beans-arabika-80-robusta-20-biji-bubuk/",
+    "cat": "house-blend",
+    "catLabel": "House Blend",
+    "price": 43000,
+    "oldPrice": 95900,
+    "img": "produk/es-kopi-susu-kekinian/1-400.webp",
+    "galeri": [
+      "produk/es-kopi-susu-kekinian/1.webp",
+      "produk/es-kopi-susu-kekinian/2.webp",
+      "produk/es-kopi-susu-kekinian/3.webp",
+      "produk/es-kopi-susu-kekinian/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 43000,
+        "o": 95900
+      },
+      "200": {
+        "p": 68000,
+        "o": 169900
+      },
+      "500": {
+        "p": 141000,
+        "o": 289900
+      },
+      "1000": {
+        "p": 220000,
+        "o": 549900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 8905,
+    "origin": "",
+    "process": "",
+    "roast": "Medium To Dark / Full City",
+    "komposisi": "80% Arabica & 20% Robusta",
+    "roastLevel": 4,
+    "notes": [
+      "Brown sugar",
+      "Malt",
+      "Chocolate",
+      "Sweet caramel after taste"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [
+      "Kami menjamin produk kami fresh roasted, maksimal 5 hari resting sejak tanggal pemesanan.",
+      "Masa Kadaluarsa produk kami itu 1 Tahun sejak tanggal pemesanan. Untuk mendapatkan rasa yang optimal, segera konsumsi dalam 0 – 2 Bulan sejak kemasan dibuka."
+    ],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "strong-black-coffee",
+    "slug": "strong-black-coffee",
+    "name": "Strong Black Coffee",
+    "sourceName": "Strong Black Coffee Biji Kopi House Blend",
+    "url": "https://sakhacoffee.com/product/kopi-espresso-blend-strong-black-coffee-beans-20-arabika-80-robusta-kopdar-biji-bubuk/",
+    "cat": "house-blend",
+    "catLabel": "House Blend",
+    "price": 38000,
+    "oldPrice": 79900,
+    "img": "produk/strong-black-coffee/1-400.webp",
+    "galeri": [
+      "produk/strong-black-coffee/1.webp",
+      "produk/strong-black-coffee/2.webp",
+      "produk/strong-black-coffee/3.webp",
+      "produk/strong-black-coffee/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 38000,
+        "o": 79900
+      },
+      "200": {
+        "p": 61000,
+        "o": 129900
+      },
+      "500": {
+        "p": 122000,
+        "o": 224900
+      },
+      "1000": {
+        "p": 195000,
+        "o": 449900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 7163,
+    "origin": "",
+    "process": "",
+    "roast": "Medium To Dark / Full City",
+    "komposisi": "20% Arabica & 80% Robusta",
+    "roastLevel": 4,
+    "notes": [
+      "Brown sugar",
+      "Malt",
+      "Chocolate",
+      "Sweet caramel after taste"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [
+      "Kami menjamin produk kami fresh roasted, maksimal 5 hari resting sejak tanggal pemesanan.",
+      "Masa Kadaluarsa produk kami itu 1 Tahun sejak tanggal pemesanan. Untuk mendapatkan rasa yang optimal, segera konsumsi dalam 0 – 2 Bulan sejak kemasan dibuka."
+    ],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "signature-espresso",
+    "slug": "signature-espresso",
+    "name": "Signature Espresso",
+    "sourceName": "Signature Espresso Biji Kopi House Blend",
+    "url": "https://sakhacoffee.com/product/kopi-espresso-house-blend-signature-coffee-roast-beans-coffe-biji-bubuk-sakha-coffe-roastery/",
+    "cat": "house-blend",
+    "catLabel": "House Blend",
+    "price": 41000,
+    "oldPrice": 94900,
+    "img": "produk/signature-espresso/1-400.webp",
+    "galeri": [
+      "produk/signature-espresso/1.webp",
+      "produk/signature-espresso/2.webp",
+      "produk/signature-espresso/3.webp",
+      "produk/signature-espresso/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 41000,
+        "o": 94900
+      },
+      "200": {
+        "p": 64000,
+        "o": 169900
+      },
+      "500": {
+        "p": 130000,
+        "o": 269900
+      },
+      "1000": {
+        "p": 205000,
+        "o": 549900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 7435,
+    "origin": "",
+    "process": "",
+    "roast": "Medium To Dark / Full City",
+    "komposisi": "50% Arabica & 50% Robusta",
+    "roastLevel": 4,
+    "notes": [
+      "Brown sugar",
+      "Malt",
+      "Chocolate",
+      "Sweet caramel after taste"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [
+      "Kami menjamin produk kami fresh roasted, maksimal 5 hari resting sejak tanggal pemesanan.",
+      "Masa Kadaluarsa produk kami itu 1 Tahun sejak tanggal pemesanan. Untuk mendapatkan rasa yang optimal, segera konsumsi dalam 0 – 2 Bulan sejak kemasan dibuka."
+    ],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "special-gold-blend",
+    "slug": "special-gold-blend",
+    "name": "Special Gold Blend",
+    "sourceName": "Special Gold Blend Biji Kopi House Blend",
+    "url": "https://sakhacoffee.com/product/kopi-espresso-special-gold-blend-coffee-beans-coffe-biji-bubuk-roast-bean-sakha-coffe-roastery/",
+    "cat": "house-blend",
+    "catLabel": "House Blend",
+    "price": 42000,
+    "oldPrice": 94900,
+    "img": "produk/special-gold-blend/1-400.webp",
+    "galeri": [
+      "produk/special-gold-blend/1.webp",
+      "produk/special-gold-blend/2.webp",
+      "produk/special-gold-blend/3.webp",
+      "produk/special-gold-blend/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 42000,
+        "o": 94900
+      },
+      "200": {
+        "p": 66000,
+        "o": 179900
+      },
+      "500": {
+        "p": 140000,
+        "o": 249900
+      },
+      "1000": {
+        "p": 215000,
+        "o": 369900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 7980,
+    "origin": "",
+    "process": "",
+    "roast": "Medium To Dark / Full City",
+    "komposisi": "75% Arabica & 25% Robusta",
+    "roastLevel": 4,
+    "notes": [
+      "Brown sugar",
+      "Malt",
+      "Chocolate",
+      "Sweet caramel after taste"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [
+      "Kami menjamin produk kami fresh roasted, maksimal 5 hari resting sejak tanggal pemesanan.",
+      "Masa Kadaluarsa produk kami itu 1 Tahun sejak tanggal pemesanan. Untuk mendapatkan rasa yang optimal, segera konsumsi dalam 0 – 2 Bulan sejak kemasan dibuka."
+    ],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "robusta-temanggung-wine",
+    "slug": "robusta-temanggung-wine",
+    "name": "Robusta Temanggung Wine",
+    "sourceName": "Robusta Temanggung Wine Biji Kopi Single Origin",
+    "url": "https://sakhacoffee.com/product/kopi-fine-robusta-temanggung-wine-coffee-roast-bean-espresso-dan-manual-brew-coffe-beans-biji-bubuk/",
+    "cat": "single-origin",
+    "catLabel": "Single Origin",
+    "price": 45000,
+    "oldPrice": 95900,
+    "img": "produk/robusta-temanggung-wine/1-400.webp",
+    "galeri": [
+      "produk/robusta-temanggung-wine/1.webp",
+      "produk/robusta-temanggung-wine/2.webp",
+      "produk/robusta-temanggung-wine/3.webp",
+      "produk/robusta-temanggung-wine/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 45000,
+        "o": 95900
+      },
+      "200": {
+        "p": 70000,
+        "o": 139900
+      },
+      "500": {
+        "p": 150000,
+        "o": 259900
+      },
+      "1000": {
+        "p": 210000,
+        "o": 419900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 500,
+    "origin": "Temanggung, Jawa Tengah",
+    "process": "Wine Process",
+    "roast": "",
+    "komposisi": "",
+    "roastLevel": null,
+    "notes": [],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Robusta",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "30/B.56/31.75.07.1004.04.015.R.4/3/-1.779.3/e/2021",
+    "ketahanan": [
+      "Nah, rasa seperti wine (minuman anggur) yang muncul pada kopi wine ini merupakan hasil fermentasi yang cukup lama tersebut. Semakin tinggi kopi itu ditanam, semakin kuat rasa wine yang dihasilkan."
+    ],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "arabika-gayo-peaberry",
+    "slug": "arabika-gayo-peaberry",
+    "name": "Arabika Gayo Peaberry",
+    "sourceName": "Arabika Gayo Peaberry Biji Kopi Single Origin",
+    "url": "https://sakhacoffee.com/product/kopi-lanang-arabika-peaberry-arabica-gayo-aceh-specialty-coffee-beans-espresso-manual-brew/",
+    "cat": "single-origin",
+    "catLabel": "Single Origin",
+    "price": 60000,
+    "oldPrice": 127900,
+    "img": "produk/arabika-gayo-peaberry/1-400.webp",
+    "galeri": [
+      "produk/arabika-gayo-peaberry/1.webp",
+      "produk/arabika-gayo-peaberry/2.webp",
+      "produk/arabika-gayo-peaberry/3.webp",
+      "produk/arabika-gayo-peaberry/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 60000,
+        "o": 127900
+      },
+      "200": {
+        "p": 100000,
+        "o": 197900
+      },
+      "500": {
+        "p": 215000,
+        "o": 409900
+      },
+      "1000": {
+        "p": 300000,
+        "o": 749900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 144,
+    "origin": "Gayo, Aceh, Sumatra",
+    "process": "Semi Wash",
+    "roast": "",
+    "komposisi": "",
+    "roastLevel": null,
+    "notes": [],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Arabika",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [
+      "Kopi lanang adalah istilah untuk menyebut biji kopi atau olahan biji kopi yang tidak berkeping dua. Dalam satu ceri kopi, umumnya terdapat dua biji, tetapi kopi lanang hanya memiliki biji tunggal."
+    ],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "gayo-luwak-liar",
+    "slug": "gayo-luwak-liar",
+    "name": "Gayo Luwak Liar",
+    "sourceName": "Gayo Luwak Liar Biji Kopi Arabika",
+    "url": "https://sakhacoffee.com/product/kopi-luwak-liar-arabika-gayo-aceh-arabica-coffee-roast-beans-biji-bubuk-espresso-sakha-roastery/",
+    "cat": "specialty-filter",
+    "catLabel": "Specialty Filter",
+    "price": 115000,
+    "oldPrice": 169900,
+    "img": "produk/gayo-luwak-liar/1-400.webp",
+    "galeri": [
+      "produk/gayo-luwak-liar/1.webp",
+      "produk/gayo-luwak-liar/2.webp",
+      "produk/gayo-luwak-liar/3.webp",
+      "produk/gayo-luwak-liar/4.webp",
+      "produk/gayo-luwak-liar/5.webp",
+      "produk/gayo-luwak-liar/6.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 115000,
+        "o": 169900
+      },
+      "200": {
+        "p": 195000,
+        "o": 329900
+      },
+      "500": {
+        "p": 350000,
+        "o": 699900
+      },
+      "1000": {
+        "p": 460000,
+        "o": 998900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 1000,
+    "origin": "Gayo, Aceh, Sumatra",
+    "process": "",
+    "roast": "",
+    "komposisi": "",
+    "roastLevel": null,
+    "notes": [
+      "Brown sugar",
+      "Dark chocolate",
+      "Sweet",
+      "Orange zest",
+      "Citrus"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Arabika Luwak Liar",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "",
+    "ketahanan": [],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "robusta-bali-kintamani",
+    "slug": "robusta-bali-kintamani",
+    "name": "Robusta Bali Kintamani",
+    "sourceName": "Robusta Bali Kintamani Biji Kopi Single Origin",
+    "url": "https://sakhacoffee.com/product/kopi-robusta-bali-kintamani-coffee-espresso-roasted-beans-biji-bubuk/",
+    "cat": "single-origin",
+    "catLabel": "Single Origin",
+    "price": 43000,
+    "oldPrice": 99900,
+    "img": "produk/robusta-bali-kintamani/1-400.webp",
+    "galeri": [
+      "produk/robusta-bali-kintamani/1.webp",
+      "produk/robusta-bali-kintamani/2.webp",
+      "produk/robusta-bali-kintamani/3.webp",
+      "produk/robusta-bali-kintamani/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 43000,
+        "o": 99900
+      },
+      "200": {
+        "p": 60000,
+        "o": 119900
+      },
+      "500": {
+        "p": 120000,
+        "o": 225900
+      },
+      "1000": {
+        "p": 170000,
+        "o": 379900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 7173,
+    "origin": "Kintamani, Bali",
+    "process": "Natural",
+    "roast": "Medium To Dark / Full City +",
+    "komposisi": "",
+    "roastLevel": 4,
+    "notes": [
+      "Brown sugar",
+      "Roast peanut",
+      "Chocolate malt"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Kopi Fine Robusta",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "30/B.56/31.75.07.1004.04.015.R.4/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "robusta-dampit",
+    "slug": "robusta-dampit",
+    "name": "Robusta Dampit",
+    "sourceName": "Robusta Dampit Biji Kopi Single Origin",
+    "url": "https://sakhacoffee.com/product/kopi-robusta-dampit-jawa-timur-coffee-espresso-roast-beans-biji-bubuk/",
+    "cat": "single-origin",
+    "catLabel": "Single Origin",
+    "price": 99900,
+    "oldPrice": null,
+    "img": "produk/robusta-dampit/1-400.webp",
+    "galeri": [
+      "produk/robusta-dampit/1.webp",
+      "produk/robusta-dampit/2.webp",
+      "produk/robusta-dampit/3.webp",
+      "produk/robusta-dampit/4.webp"
+    ],
+    "added": "2026-04-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 99900,
+        "o": null
+      },
+      "200": {
+        "p": 119900,
+        "o": null
+      },
+      "500": {
+        "p": 225900,
+        "o": null
+      },
+      "1000": {
+        "p": 379900,
+        "o": null
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 7210,
+    "origin": "Dampit, Malang, Jawa Timur",
+    "process": "Natural",
+    "roast": "Medium To Dark / Full City +",
+    "komposisi": "",
+    "roastLevel": 4,
+    "notes": [
+      "Earthy",
+      "Caramel",
+      "Woody"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Fine Robusta",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "30/B.56/31.75.07.1004.04.015.R.4/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "robusta-flores",
+    "slug": "robusta-flores",
+    "name": "Robusta Flores",
+    "sourceName": "Robusta Flores Biji Kopi Single Origin",
+    "url": "https://sakhacoffee.com/product/kopi-robusta-flores-bajawa-coffee-bean-espresso-roast-beans-biji-bubuk/",
+    "cat": "single-origin",
+    "catLabel": "Single Origin",
+    "price": 43000,
+    "oldPrice": 99900,
+    "img": "produk/robusta-flores/1-400.webp",
+    "galeri": [
+      "produk/robusta-flores/1.webp",
+      "produk/robusta-flores/2.webp",
+      "produk/robusta-flores/3.webp",
+      "produk/robusta-flores/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 43000,
+        "o": 99900
+      },
+      "200": {
+        "p": 60000,
+        "o": 119900
+      },
+      "500": {
+        "p": 120000,
+        "o": 225900
+      },
+      "1000": {
+        "p": 170000,
+        "o": 379900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 998,
+    "origin": "Bajawa, Flores, Nusa Tenggara Timur",
+    "process": "Natural",
+    "roast": "Medium To Dark / Full City +",
+    "komposisi": "",
+    "roastLevel": 4,
+    "notes": [
+      "Brown sugar",
+      "Chocolate malt",
+      "Sweet"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Kopi Fine Robusta",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "30/B.56/31.75.07.1004.04.015.R.4/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "robusta-gayo-aceh",
+    "slug": "robusta-gayo-aceh",
+    "name": "Robusta Gayo Aceh",
+    "sourceName": "Robusta Gayo Aceh Biji Kopi Single Origin",
+    "url": "https://sakhacoffee.com/product/kopi-robusta-gayo-aceh-sumatra-coffee-beans-espresso-roast-biji-bubuk/",
+    "cat": "single-origin",
+    "catLabel": "Single Origin",
+    "price": 43000,
+    "oldPrice": 99900,
+    "img": "produk/robusta-gayo-aceh/1-400.webp",
+    "galeri": [
+      "produk/robusta-gayo-aceh/1.webp",
+      "produk/robusta-gayo-aceh/2.webp",
+      "produk/robusta-gayo-aceh/3.webp",
+      "produk/robusta-gayo-aceh/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 43000,
+        "o": 99900
+      },
+      "200": {
+        "p": 60000,
+        "o": 119900
+      },
+      "500": {
+        "p": 120000,
+        "o": 225900
+      },
+      "1000": {
+        "p": 170000,
+        "o": 379900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 7902,
+    "origin": "Gayo, Aceh, Sumatra",
+    "process": "Natural",
+    "roast": "Medium To Dark / Full City +",
+    "komposisi": "",
+    "roastLevel": 4,
+    "notes": [
+      "Brown sugar",
+      "Chocolate",
+      "Malt",
+      "Sweet",
+      "Woody"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Fine Robusta",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "30/B.56/31.75.07.1004.04.015.R.4/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "robusta-jawa-java",
+    "slug": "robusta-jawa-java",
+    "name": "Robusta Jawa Java",
+    "sourceName": "Robusta Jawa Java Biji Kopi Single Origin",
+    "url": "https://sakhacoffee.com/product/kopi-robusta-jawa-java-coffee-beans-espresso-roasted-bean-biji-bubuk/",
+    "cat": "single-origin",
+    "catLabel": "Single Origin",
+    "price": 43000,
+    "oldPrice": 99900,
+    "img": "produk/robusta-jawa-java/1-400.webp",
+    "galeri": [
+      "produk/robusta-jawa-java/1.webp",
+      "produk/robusta-jawa-java/2.webp",
+      "produk/robusta-jawa-java/3.webp",
+      "produk/robusta-jawa-java/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 43000,
+        "o": 99900
+      },
+      "200": {
+        "p": 60000,
+        "o": 119900
+      },
+      "500": {
+        "p": 120000,
+        "o": 225900
+      },
+      "1000": {
+        "p": 170000,
+        "o": 379900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 79982,
+    "origin": "Java Island",
+    "process": "Natural",
+    "roast": "Medium To Dark / Full City +",
+    "komposisi": "",
+    "roastLevel": 4,
+    "notes": [
+      "Earthy",
+      "Caramel",
+      "Woody"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Kopi Fine Robusta",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "30/B.56/31.75.07.1004.04.015.R.4/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "robusta-lampung",
+    "slug": "robusta-lampung",
+    "name": "Robusta Lampung",
+    "sourceName": "Robusta Lampung Biji Kopi Single Origin",
+    "url": "https://sakhacoffee.com/product/kopi-robusta-lampung-sumatra-coffee-espresso-roasted-beans-biji-bubuk/",
+    "cat": "single-origin",
+    "catLabel": "Single Origin",
+    "price": 43000,
+    "oldPrice": 99900,
+    "img": "produk/robusta-lampung/1-400.webp",
+    "galeri": [
+      "produk/robusta-lampung/1.webp",
+      "produk/robusta-lampung/2.webp",
+      "produk/robusta-lampung/3.webp",
+      "produk/robusta-lampung/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 43000,
+        "o": 99900
+      },
+      "200": {
+        "p": 60000,
+        "o": 119900
+      },
+      "500": {
+        "p": 120000,
+        "o": 225900
+      },
+      "1000": {
+        "p": 170000,
+        "o": 379900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 7965,
+    "origin": "Lampung, Sumatra",
+    "process": "Natural",
+    "roast": "Medium to Dark / Full City +",
+    "komposisi": "",
+    "roastLevel": 4,
+    "notes": [
+      "Chocolate",
+      "Brown sugar",
+      "Woody",
+      "Sweet",
+      "Earthy"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "ROBUSTA",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "30/B.56/31.75.07.1004.04.015.R.4/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "robusta-sidikalang",
+    "slug": "robusta-sidikalang",
+    "name": "Robusta Sidikalang",
+    "sourceName": "Robusta Sidikalang Biji Kopi Single Origin",
+    "url": "https://sakhacoffee.com/product/kopi-robusta-sidikalang-sumatra-coffee-beans-espresso-bean-biji-bubuk/",
+    "cat": "single-origin",
+    "catLabel": "Single Origin",
+    "price": 43000,
+    "oldPrice": 99900,
+    "img": "produk/robusta-sidikalang/1-400.webp",
+    "galeri": [
+      "produk/robusta-sidikalang/1.webp",
+      "produk/robusta-sidikalang/2.webp",
+      "produk/robusta-sidikalang/3.webp",
+      "produk/robusta-sidikalang/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 43000,
+        "o": 99900
+      },
+      "200": {
+        "p": 60000,
+        "o": 119900
+      },
+      "500": {
+        "p": 120000,
+        "o": 225900
+      },
+      "1000": {
+        "p": 170000,
+        "o": 379900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 7924,
+    "origin": "Sidikalang, Sumatra",
+    "process": "Natural",
+    "roast": "Medium To Dark / Full City +",
+    "komposisi": "",
+    "roastLevel": 4,
+    "notes": [
+      "Nutty",
+      "Milk chocolate",
+      "Caramel",
+      "Low acidity",
+      "Bold"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Fine Robusta",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "30/B.56/31.75.07.1004.04.015.R.4/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "robusta-temanggung",
+    "slug": "robusta-temanggung",
+    "name": "Robusta Temanggung",
+    "sourceName": "Robusta Temanggung Biji Kopi Single Origin",
+    "url": "https://sakhacoffee.com/product/kopi-robusta-temanggung-coffee-bean-espresso-roasted-beans-biji-bubuk/",
+    "cat": "single-origin",
+    "catLabel": "Single Origin",
+    "price": 38900,
+    "oldPrice": 99900,
+    "img": "produk/robusta-temanggung/1-400.webp",
+    "galeri": [
+      "produk/robusta-temanggung/1.webp",
+      "produk/robusta-temanggung/2.webp",
+      "produk/robusta-temanggung/3.webp",
+      "produk/robusta-temanggung/4.webp"
+    ],
+    "added": "2026-04-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 38900,
+        "o": 99900
+      },
+      "200": {
+        "p": 53900,
+        "o": 119900
+      },
+      "500": {
+        "p": 107900,
+        "o": 225900
+      },
+      "1000": {
+        "p": 179900,
+        "o": 379900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 7186,
+    "origin": "Temanggung, Jawa Tengah",
+    "process": "Natural",
+    "roast": "Medium To Dark / Full City +",
+    "komposisi": "",
+    "roastLevel": 4,
+    "notes": [
+      "Earthy",
+      "Caramel",
+      "Woody"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Fine Robusta",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "30/B.56/31.75.07.1004.04.015.R.4/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "robusta-toraja",
+    "slug": "robusta-toraja",
+    "name": "Robusta Toraja",
+    "sourceName": "Biji Kopi Robusta Toraja Single Origin",
+    "url": "https://sakhacoffee.com/product/kopi-robusta-toraja-sulawesi-coffee-bean-espresso-roasted-beans/",
+    "cat": "single-origin",
+    "catLabel": "Single Origin",
+    "price": 43000,
+    "oldPrice": 89900,
+    "img": "produk/robusta-toraja/1-400.webp",
+    "galeri": [
+      "produk/robusta-toraja/1.webp",
+      "produk/robusta-toraja/2.webp",
+      "produk/robusta-toraja/3.webp",
+      "produk/robusta-toraja/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 43000,
+        "o": 89900
+      },
+      "200": {
+        "p": 60000,
+        "o": 109900
+      },
+      "500": {
+        "p": 120000,
+        "o": 215900
+      },
+      "1000": {
+        "p": 170000,
+        "o": 369900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 7152,
+    "origin": "Toraja, Sulawesi",
+    "process": "Natural",
+    "roast": "Medium To Dark / Full City +",
+    "komposisi": "",
+    "roastLevel": 4,
+    "notes": [],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Kopi Fine Robusta",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "30/B.56/31.75.07.1004.04.015.R.4/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "p5",
+    "slug": "milkinho-da-cerra",
+    "name": "Milkinho Da Cerra",
+    "sourceName": "Milkinho Da Cerra Biji Kopi Arabika",
+    "url": "https://sakhacoffee.com/product/milkinho-da-cerra-kopi-espresso-full-arabica-biji-coffee-bubuk-murni/",
+    "cat": "specialty-espresso",
+    "catLabel": "Specialty Espresso",
+    "price": 80000,
+    "oldPrice": 189900,
+    "img": "produk/milkinho-da-cerra/1-400.webp",
+    "galeri": [
+      "produk/milkinho-da-cerra/1.webp",
+      "produk/milkinho-da-cerra/2.webp",
+      "produk/milkinho-da-cerra/3.webp",
+      "produk/milkinho-da-cerra/4.webp",
+      "produk/milkinho-da-cerra/5.webp",
+      "produk/milkinho-da-cerra/6.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 80000,
+        "o": 189900
+      },
+      "200": {
+        "p": 140000,
+        "o": 289900
+      },
+      "500": {
+        "p": 235000,
+        "o": 489900
+      },
+      "1000": {
+        "p": 335000,
+        "o": 749900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 1000,
+    "origin": "Arabika Brazil",
+    "process": "Natural",
+    "roast": "Medium to dark",
+    "komposisi": "",
+    "roastLevel": 4,
+    "notes": [
+      "Milk chocolate",
+      "Caramel",
+      "Walnut"
+    ],
+    "variety": "Mixed Variety",
+    "altitude": "1200 – 1500 MASL",
+    "jenis": "Arabika Brazil",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "Jika varian ukuran 100gr, 500gr dan 1kg tidak memakai box",
+    "sertHalal": "",
+    "pirt": "",
+    "ketahanan": [],
+    "desc": "Saat ini, Sakha Coffee kembali memperkenalkan produk terbaru kami, yaitu MILKINHO DA CERRA.\nDibalik nama ini, MILKINHO DA CERRA menggambarkan pengalaman luar biasa saat kami melakukan proses cupping dengan biji kopi asal Brazil. Pada saat itu, kami terbayang betapa nikmatnya jika biji kopi ini disajikan bersama susu, baik dalam bentuk latte maupun cappuccino. Kami sangat menyukai hasil cappuccino yang dihasilkan dari biji kopi ini. Oleh karena itu, Milkinho melambangkan harmoni cita rasa antara susu dan coklat dari biji kopi ini.",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": false
+  },
+  {
+    "id": "paket-hemat-kopi-v60-manual-brew-set",
+    "slug": "paket-hemat-kopi-v60-manual-brew-set",
+    "name": "Paket Hemat Kopi V60 Manual Brew Set",
+    "sourceName": "Paket Hemat Kopi V60 Alat Seduh Coffee Manual Brew Set Siap Seduh",
+    "url": "https://sakhacoffee.com/product/paket-hemat-kopi-v60-alat-seduh-coffee-manual-brew-set-siap-seduh/",
+    "cat": "hampers",
+    "catLabel": "Hampers",
+    "price": 600000,
+    "oldPrice": null,
+    "img": "produk/paket-hemat-kopi-v60-manual-brew-set/1-400.webp",
+    "galeri": [
+      "produk/paket-hemat-kopi-v60-manual-brew-set/1.webp",
+      "produk/paket-hemat-kopi-v60-manual-brew-set/2.webp",
+      "produk/paket-hemat-kopi-v60-manual-brew-set/3.webp",
+      "produk/paket-hemat-kopi-v60-manual-brew-set/4.webp",
+      "produk/paket-hemat-kopi-v60-manual-brew-set/5.webp",
+      "produk/paket-hemat-kopi-v60-manual-brew-set/6.webp",
+      "produk/paket-hemat-kopi-v60-manual-brew-set/7.webp"
+    ],
+    "added": "2026-03-01",
+    "badge": null,
+    "weight": 0,
+    "sizes": null,
+    "harga": null,
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 50,
+    "origin": "",
+    "process": "",
+    "roast": "",
+    "komposisi": "",
+    "roastLevel": null,
+    "notes": [],
+    "variety": "",
+    "altitude": "",
+    "jenis": "",
+    "acidity": "",
+    "body": "",
+    "packaging": "",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "Halo, Sobat Brewer 🙂\nSuka Penyeduhan kopi dengan metode penyeduhan V60?\nSaat ini Paket Alat Seduh V60 sudah tersedia di Sakha Coffee lohh!\nJika Sobat Brewer bingung mencari hadiah hampers, produk ini cocok untuk dijadikan hadiah yang akan di berikan kepada Saudara, Kerabat dan Kekasih kalian.\nBiar makin asik ngopi dirumah,Sobat Brewer harus punya alat seduh ini dengan harga yang murah dan berkualitas.\nKenapa bisa di sebut V60?\nDinamakan V60 karena desain alat ini memiliki Vector 60, membentuk sudut 60 derajat. Ini adalah temuan besar dalam teknik manual brew, selain alat-alat yang sudah beredar sebelumnya.\nPaket termasuk :\n1Pcs Kettle Tanpa Tutup\n1Pcs Server 400ml\n1Pcs Dripper V60\n1Pcs Paper Filter 40pcs\n1Pcs Specialty MoonLime Jennifer 100gr\nPacking di Jamin Aman untuk Kirim Ke Luar Kota, karena memakai Bubble Wrap yang tebal dan dus box yang berkualitas.\nUntuk Varian Gilingan Kopi, Kalian bisa tentukan di pilihan Varian Gilingan sesuai keinginan kalian 🙂",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "p9",
+    "slug": "7-fruit-basket-drip-bag",
+    "name": "7 Fruit Basket Drip Bag",
+    "sourceName": "Sakha Coffee 7 Fruit Basket Drip Bag Coffee Kopi Drip Filter Praktis Gift Pack Travel Coffe Specialty Rasa Buah",
+    "url": "https://sakhacoffee.com/product/sakha-coffee-7-fruit-basket-drip-bag-coffee-kopi-drip-filter-praktis-gift-pack-travel-coffe-specialty-rasa-buah/",
+    "cat": "kopi-tanpa-ampas",
+    "catLabel": "Kopi Tanpa Ampas",
+    "price": 114900,
+    "oldPrice": 284900,
+    "img": "produk/7-fruit-basket-drip-bag/1-400.webp",
+    "galeri": [
+      "produk/7-fruit-basket-drip-bag/1.webp",
+      "produk/7-fruit-basket-drip-bag/2.webp",
+      "produk/7-fruit-basket-drip-bag/3.webp",
+      "produk/7-fruit-basket-drip-bag/4.webp",
+      "produk/7-fruit-basket-drip-bag/5.webp",
+      "produk/7-fruit-basket-drip-bag/6.webp"
+    ],
+    "added": "2026-10-01",
+    "badge": null,
+    "weight": 0,
+    "sizes": null,
+    "harga": null,
+    "grinds": null,
+    "opsiLabel": null,
+    "stock": 48,
+    "origin": "",
+    "process": "",
+    "roast": "",
+    "komposisi": "",
+    "roastLevel": null,
+    "notes": [],
+    "variety": "",
+    "altitude": "",
+    "jenis": "",
+    "acidity": "",
+    "body": "",
+    "packaging": "",
+    "catatan": "",
+    "sertHalal": "",
+    "pirt": "",
+    "ketahanan": [],
+    "desc": "Sakha Coffee 7 Fruit Basket Drip Bag Coffee\nNikmati kemudahan menyeduh kopi dengan Sakha Coffee 7 Fruit Basket Drip Bag Coffee. Produk ini merupakan kopi drip bag coffee filter yang praktis digunakan tanpa alat seduh tambahan. Cocok untuk kamu yang ingin menikmati drip coffee premium dengan karakter rasa fruity, segar, dan seimbang.\nDengan sistem drip bag coffee, kopi dapat langsung diseduh di cangkir hanya dengan air panas. Praktis untuk dinikmati di rumah, kantor, maupun saat traveling.\nVarian Kopi dalam Paket 7 Fruit Basket\nDalam satu paket Sakha Coffee 7 Fruit Basket Drip Bag Coffee kamu akan mendapatkan 7 varian kopi dengan karakter fruity yang berbeda:\nIsi 1 Box\n1. Berrywave Karo – karakter fruity dengan rasa berry yang segar\n2. Blueberry WellCream – perpaduan rasa blueberry dengan tekstur creamy\n3. Glory Cherry Burst – aroma cherry dengan rasa manis dan segar\n4. MoonLime Jennifer – sentuhan citrus lime yang ringan dan menyegarkan\n5. Honey Berry Sweety – manis alami dengan karakter honey dan berry\n6. Kintamani Honey – kopi Bali dengan karakter honey dan citrus\n7 .Gayo Wine – karakter winey khas kopi Gayo dengan aroma kompleks\nKeunggulan Produk\nDrip Bag Coffee Praktis – Seduh kopi langsung tanpa alat tambahan\nKopi Drip Premium – Menggunakan biji kopi pilihan dari Sakha Coffee\n7 Varian Rasa Fruity – Pengalaman minum kopi yang lebih beragam\nTravel Pack Coffee – Mudah dibawa saat bepergian\nGift Pack Coffee – Cocok untuk hadiah, hampers, atau souvenir",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": false
+  },
+  {
+    "id": "arabika-bali-kintamani-honey",
+    "slug": "arabika-bali-kintamani-honey",
+    "name": "Arabika Bali Kintamani Honey",
+    "sourceName": "Arabika Bali Kintamani Honey Biji Kopi Single Origin",
+    "url": "https://sakhacoffee.com/product/sakha-coffee-biji-kopi-arabika-bali-kintamani-honey-arabica-coffee-roast-bean/",
+    "cat": "single-origin",
+    "catLabel": "Single Origin",
+    "price": 65000,
+    "oldPrice": 127900,
+    "img": "produk/arabika-bali-kintamani-honey/1-400.webp",
+    "galeri": [
+      "produk/arabika-bali-kintamani-honey/1.webp",
+      "produk/arabika-bali-kintamani-honey/2.webp",
+      "produk/arabika-bali-kintamani-honey/3.webp",
+      "produk/arabika-bali-kintamani-honey/4.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 65000,
+        "o": 127900
+      },
+      "200": {
+        "p": 100000,
+        "o": 197900
+      },
+      "500": {
+        "p": 220000,
+        "o": 409900
+      },
+      "1000": {
+        "p": 325000,
+        "o": 749900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 1000,
+    "origin": "Kintamani, Bali",
+    "process": "Honey",
+    "roast": "Medium ( City Roast )",
+    "komposisi": "",
+    "roastLevel": 3,
+    "notes": [
+      "Fruity",
+      "Citrus",
+      "Citric acid"
+    ],
+    "variety": "",
+    "altitude": "",
+    "jenis": "Arabika",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "",
+    "sertHalal": "",
+    "pirt": "30/B.56/31.75.07.1004.04.015.R.4/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "SAKHA COFFEE Roastery adalah produsen kopi yang bekerjasama langsung dengan para petani kopi untuk menciptakan rasa dan kualitas yang konsisten hingga siap dinikmati.",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": false
+  },
+  {
+    "id": "p12",
+    "slug": "drip-bag-arabica-specialty",
+    "name": "Drip Bag Arabica Specialty",
+    "sourceName": "Sakha Coffee – Drip Bag Arabica Specialty Kopi Instan Siap Seduh Murni Arabika Tanpa Ampas",
+    "url": "https://sakhacoffee.com/product/sakha-coffee-drip-bag-arabica-specialty-kopi-instan-siap-seduh-murni-arabika-tanpa-ampas/",
+    "cat": "kopi-tanpa-ampas",
+    "catLabel": "Kopi Tanpa Ampas",
+    "price": 14900,
+    "oldPrice": 59900,
+    "img": "produk/drip-bag-arabica-specialty/1-400.webp",
+    "galeri": [
+      "produk/drip-bag-arabica-specialty/1.webp",
+      "produk/drip-bag-arabica-specialty/2.webp",
+      "produk/drip-bag-arabica-specialty/3.webp",
+      "produk/drip-bag-arabica-specialty/4.webp"
+    ],
+    "added": "2026-10-01",
+    "badge": null,
+    "weight": 0,
+    "sizes": null,
+    "harga": null,
+    "grinds": [
+      "Blueberry Well Cream",
+      "Alexander Le Grape",
+      "Luwak Liar",
+      "Berrywave Karo",
+      "Glory Cherry Burst",
+      "Honey Berry Sweety",
+      "Moonlime Jennifer",
+      "Sun of Peach",
+      "Victoria La Marqueesa"
+    ],
+    "opsiLabel": "Varian",
+    "stock": 1,
+    "origin": "",
+    "process": "",
+    "roast": "",
+    "komposisi": "",
+    "roastLevel": null,
+    "notes": [],
+    "variety": "",
+    "altitude": "",
+    "jenis": "",
+    "acidity": "",
+    "body": "",
+    "packaging": "",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "Sakha Coffee kini menyediakan kopi instan yang sangat simple penyeduhannya untuk teman-teman. Cukup butuh waktu 5 menit untuk menyeduh kopi ini.\nCocok sekali untuk kalian yang sedang traveling atau tidak memiliki waktu yang banyak untuk menyeduh kopi, namun ingin minum kopi yang premium.\nCuss langsung check out..\n1.Sobek kemasan searah garis, kemudian buka dan kaitkan drip bag ke sisi gelas.\n2.Masukkan 20 ml air panas ke dalam coffee drip bag, lalu tunggu selama 30 detik sampai endapan kopi mengembang, lalu perlahan tambahkan 150ml air panas. Suhu air panas yang disarankan adalah 89 – 93 derajat Celcius.\n3.Diamkan selama 3 menit lalu buang drip bag. Tambahkan susu jika diperlukan.\nPilihan Varian Coffee Drip :\nSpecialty\n– Kopi Specialty Blueberry Well Cream\n– Kopi Specialty Alexander Le Grape\n– Kopi Specialty Luwak Liar\n– Kopi Specialty Berrywave Karo\n– Kopi Specialty Glory Cherry Burst\n– Kopi Specialty Honey Berry Sweety\n– Kopi Specialty Moonlime Jennifer\n– Kopi Specialty Sun Of Peach\n– Kopi Specialty Victoria La Marqueesa",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "hampers-special-edition-2",
+    "slug": "hampers-special-edition-2",
+    "name": "Hampers Special Edition 2",
+    "sourceName": "Sakha Coffee Specialty Coffee Hampers Special Edition 2 Arabica Roasted Beans",
+    "url": "https://sakhacoffee.com/product/sakha-coffee-specialty-coffee-hampers-special-edition-2-arabica-roasted-beans/",
+    "cat": "hampers",
+    "catLabel": "Hampers",
+    "price": 189900,
+    "oldPrice": 399900,
+    "img": "produk/hampers-special-edition-2/1-400.webp",
+    "galeri": [
+      "produk/hampers-special-edition-2/1.webp",
+      "produk/hampers-special-edition-2/2.webp",
+      "produk/hampers-special-edition-2/3.webp",
+      "produk/hampers-special-edition-2/4.webp"
+    ],
+    "added": "2026-03-01",
+    "badge": null,
+    "weight": 0,
+    "sizes": null,
+    "harga": null,
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 5,
+    "origin": "",
+    "process": "",
+    "roast": "",
+    "komposisi": "",
+    "roastLevel": null,
+    "notes": [],
+    "variety": "",
+    "altitude": "",
+    "jenis": "",
+    "acidity": "",
+    "body": "",
+    "packaging": "",
+    "catatan": "",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "Rayakan momen spesial dengan Specialty Coffee Hampers Event Edition dari Sakha Coffee. Paket hampers ini berisi 2 pilihan kopi Arabika specialty roasted beans yang dipilih dari biji kopi terbaik Nusantara, dipanggang dengan standar kualitas Sakha Coffee untuk menghasilkan cita rasa yang seimbang dan berkarakter.\nDikemas secara elegan dan eksklusif, hampers ini cocok untuk berbagai kebutuhan acara seperti corporate event, gathering, hadiah apresiasi, hingga momen spesial pribadi . Pilihan tepat bagi pecinta kopi yang mengutamakan kualitas, aroma, dan rasa autentik.\nIsi Paket\n1 pcs Arabica Specialty Manual Brew\n1 Pcs Espresso Based Full Arabica Specialty\nGramasi: 100 gram / pcs\nKeunggulan Produk\nMenggunakan biji kopi Arabika specialty grade\nFresh roasted untuk menjaga aroma dan kualitas rasa\nDikemas rapi dan elegan, siap dijadikan hadiah\nCocok untuk berbagai jenis acara dan momen spesial\nSilahkan pilih pada keterangan varian",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  },
+  {
+    "id": "sweet-bouquet",
+    "slug": "sweet-bouquet",
+    "name": "Sweet Bouquet",
+    "sourceName": "SWEET BOUQUET Biji Kopi Arabika",
+    "url": "https://sakhacoffee.com/product/sweet-bouquet-biji-kopi-espresso-blend-full-arabika-coffee-bean-arabica-coffe/",
+    "cat": "specialty-espresso",
+    "catLabel": "Specialty Espresso",
+    "price": 75000,
+    "oldPrice": 149900,
+    "img": "produk/sweet-bouquet/1-400.webp",
+    "galeri": [
+      "produk/sweet-bouquet/1.webp",
+      "produk/sweet-bouquet/2.webp",
+      "produk/sweet-bouquet/3.webp",
+      "produk/sweet-bouquet/4.webp",
+      "produk/sweet-bouquet/5.webp",
+      "produk/sweet-bouquet/6.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 75000,
+        "o": 149900
+      },
+      "200": {
+        "p": 135000,
+        "o": 269900
+      },
+      "500": {
+        "p": 210000,
+        "o": 424900
+      },
+      "1000": {
+        "p": 290000,
+        "o": 699900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 999,
+    "origin": "Arabika Gayo & Toraja",
+    "process": "Washed",
+    "roast": "Full City",
+    "komposisi": "",
+    "roastLevel": 4,
+    "notes": [
+      "Brown sugar",
+      "Chocolate",
+      "Lemon"
+    ],
+    "variety": "Mixed Variety",
+    "altitude": "1200 – 1500 MASL",
+    "jenis": "Blend",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "Jika varian ukuran 100gr, 500gr & 1kg tidak memakai box",
+    "sertHalal": "",
+    "pirt": "",
+    "ketahanan": [],
+    "desc": "Tepat saat ini, Sakha Coffee kembali menghadirkan produk terbaru kami yang istimewa: SWEET BOUQUET.\nProses coffee blend ini terjadi karena sebuah permintaan dari salah satu teman kami. Dengan profile yang telah disesuaikan, Kami sangat kagum dengan rasa dari Espresso yang dikeluarkan dan mengingatkan kami dengan permen buah, Manis dan Asam. Kami membayangkan sebuah Bouquet Permen saat meminumnya, dan kami jadikan sebuah nama, biar kamu tau apa yang kami bayangkan.",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": false
+  },
+  {
+    "id": "tiramismooth-camada",
+    "slug": "tiramismooth-camada",
+    "name": "Tiramismooth Camada",
+    "sourceName": "Tiramismooth Camada Biji Kopi House Blend",
+    "url": "https://sakhacoffee.com/product/tiramismooth-camada-kopi-espresso-house-blend-coffee-beans-bubuk-asli/",
+    "cat": "specialty-espresso",
+    "catLabel": "Specialty Espresso",
+    "price": 70000,
+    "oldPrice": 149900,
+    "img": "produk/tiramismooth-camada/1-400.webp",
+    "galeri": [
+      "produk/tiramismooth-camada/1.webp",
+      "produk/tiramismooth-camada/2.webp",
+      "produk/tiramismooth-camada/3.webp",
+      "produk/tiramismooth-camada/4.webp",
+      "produk/tiramismooth-camada/5.webp",
+      "produk/tiramismooth-camada/6.webp"
+    ],
+    "added": "2026-08-01",
+    "badge": null,
+    "weight": 100,
+    "sizes": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "harga": {
+      "100": {
+        "p": 70000,
+        "o": 149900
+      },
+      "200": {
+        "p": 130000,
+        "o": 269900
+      },
+      "500": {
+        "p": 205000,
+        "o": 429900
+      },
+      "1000": {
+        "p": 250000,
+        "o": 649900
+      }
+    },
+    "grinds": [
+      "Biji Utuh",
+      "Kasar (French Press)",
+      "Sedang (V60)",
+      "Halus (Espresso)"
+    ],
+    "opsiLabel": null,
+    "stock": 2000,
+    "origin": "Arabika Brazil & Robusta Java",
+    "process": "Washed & Natural",
+    "roast": "Medium To Dark",
+    "komposisi": "50% Arabika Brazil",
+    "roastLevel": 4,
+    "notes": [
+      "Dark chocolate",
+      "Walnut",
+      "Tiramisu"
+    ],
+    "variety": "Mixed Variety",
+    "altitude": "1200 – 1500 MASL",
+    "jenis": "",
+    "acidity": "",
+    "body": "",
+    "packaging": "One way Valve, Alumunium Foil",
+    "catatan": "Varian ukuran 100gr, 500gr & 1kg tidak termasuk kotak",
+    "sertHalal": "ID31110000375150622",
+    "pirt": "7/B.56/31.75.07.1004.02.001.K.2/3/-1.779.3/e/2021",
+    "ketahanan": [],
+    "desc": "Saat ini, Sakha Coffee mempersembahkan produk Special House Blend yang diberi nama Tiramismooth Camada. Produk ini tersedia dalam beberapa varian ukuran dan tingkat gilingan.\nSobat Brewer dapat memilih sesuai dengan preferensi saat melakukan pemesanan 🙂\nApa perbedaan single origin dan house blend?\nPersepsi utama yang harus dijadikan patokan adalah single origin merupakan jenis kopi yang berasal dari satu daerah. Sedangkan coffee house blend adalah percampuran kopi dari beberapa daerah atau jenis kopi.\n50% Robusta Java",
+    "rating": null,
+    "reviews": null,
+    "sold": null,
+    "halal": true
+  }
+]

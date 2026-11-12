@@ -1,0 +1,6 @@
+playwright
+pandas
+openpyxl
+pillow
+python-slugify
+selenium
