@@ -7139,6 +7139,18 @@ html body .shop-all .section-head h2 em{color:#111111;}
 html body .kg .kg-h2 span{color:var(--c-sienna);}
 /* Kategori Terpopuler: 24px */
 html body .kp h2{font-family:var(--font-display);font-size:24px!important;font-weight:700;line-height:1.25!important;text-transform:uppercase!important;}
+/* HP (<768px, 13/11/2026): semua judul section beranda 24px */
+@media (max-width:767.98px){
+  html body .kb h2,
+  html body .kg .kg-h2,
+  html body .kp h2,
+  html body .shop-all .section-head h2,
+  html body .shop-all .bh-kepala h2,
+  html body .articles .aw-head h2,
+  html body .articles .bh-kepala h2,
+  html body .testimonials.tm .section-head h2,
+  html body .about .ab-judul{font-size:24px!important;}
+}
 </style>
 <style id="flashKartu">
 /* Flash Sale satu layar (12/11/2026): section = pita putih setinggi satu layar (header dikurangi);
@@ -7154,13 +7166,40 @@ html body .fl-petir{flex:none;width:.58em;height:.8em;margin:0;transform:skewX(-
 @media (min-width:768px){
   html body .fl-band{padding:24px 24px 116px;}
   html body .fl-area{padding:0 24px 24px;gap:20px;margin-top:-96px;}
-  /* Jarak kepala: badge → judul 24px, judul → kalimat 16px */
+  /* Jarak kepala: judul → kalimat 16px (badge "Sedang berlangsung" sudah dihapus) */
   html body .fl-kepala{gap:0;}
-  html body .fl-pill{margin-bottom:24px;}
   html body .fl .fl-sub{margin-top:16px;}
 }
+/* HP (<768px, 13/11/2026): layout mengikuti referensi — latar oranye selebar layar, header rata tengah,
+   countdown berbentuk pil, rel kartu produk geser ke samping (kartu pertama berlabel "Deal terbesar"),
+   dan tombol "Lihat Semua Flash Sale" selebar penuh. */
 @media (max-width:767.98px){
-  html body .fl{display:block;min-height:0;padding:16px;}   /* HP: isi band/rel tetap memakai aturan HP yang sudah ada */
+  html body .fl{display:block;min-height:0;padding:0;background:none;border-radius:0;overflow:hidden;--fl-judul:clamp(38px,12.8vw,50px);}
+  html body .fl-panel{border-radius:0;}
+  html body .fl-layar-besar{display:none;}
+  html body .fl-layar-hp{display:inline;}
+  html body .fl-band{display:flex;flex-direction:column;justify-content:flex-start;align-items:center;flex-wrap:nowrap;gap:12px;padding:24px 20px 116px;text-align:center;}
+  html body .fl-kepala{align-items:center;gap:12px;}
+  html body .fl-pill{display:none;}   /* referensi HP tanpa badge "Sedang berlangsung" */
+  html body .fl .fl-judul{font-size:var(--fl-judul);text-shadow:0 4px 0 var(--fl-navy);}
+  html body .fl .fl-sub{font-size:var(--fl-t14);}
+  html body .fl-cd{flex-direction:row;align-items:center;align-self:center;gap:8px;padding:6px 6px 6px 14px;border-radius:var(--radius-full);background:var(--fl-navy);}
+  html body .fl-cd-label{font-size:var(--fl-t11);color:var(--fl-krem-terang);}
+  html body .fl-cd-baris{gap:4px;}
+  html body .fl-sep,html body .fl-kotak span{display:none;}
+  html body .fl-kotak{width:auto;min-width:38px;padding:5px 0;border-radius:var(--radius-full);background:var(--fl-chip);}
+  html body .fl-kotak b{font-size:var(--fl-t16);line-height:1.25;}
+  html body .fl-kotak-detik{background:var(--fl-kuning);}
+  html body .fl-area{gap:12px;margin-top:-92px;padding:0 0 20px;}
+  html body .fl-daftar{padding:0 20px;scroll-padding-inline:20px;}
+  html body .fl-daftar > .fl-kartu{flex:0 0 38%;}
+  html body .fl-deal .fl-deal-label{display:block;font-size:var(--text-12);font-weight:var(--fw-semibold);line-height:1.4;color:var(--burnt-sienna);}
+  html body .fl-deal .pc-catatan{display:none;}
+  html body .fl-kartu.fl-deal .fl-nama{min-height:0;}
+  html body .fl-kaki{padding:0 20px;}
+  html body .fl .fl-catatan{display:none;}
+  html body .fl .fl-catatan.fl-selesai{display:flex;}
+  html body .fl .fl-semua{width:100%;}
 }
 </style>
 <style id="artikelKartu">
@@ -7176,6 +7215,60 @@ html body .ft-kol-kepala,
 html body .ft-app-judul{font-size:20px!important;}
 /* Baris kontak (email, WhatsApp, outlet): 14px */
 html body .ft-kontak a{font-size:14px!important;}
+</style>
+<style id="hargaCoret">
+/* Harga kartu produk (13/11/2026): baris 1 = harga coret + badge diskon, baris 2 = harga utama (besar).
+   Harga coret tidak lagi dipotong "Rp15…". Baris 1 selalu disisakan 18px supaya harga utama
+   sejajar di semua kartu, juga yang tanpa diskon. Satuan ("/ kg") menempel di kanan harga utama. */
+html body .pc-harga-baris{display:grid;grid-template-columns:auto auto minmax(0,1fr);grid-template-rows:18px auto;align-items:baseline;column-gap:6px;row-gap:2px;height:auto;min-height:44px;}
+html body .pc-coret{grid-area:1 / 1;align-self:center;flex:none;overflow:visible;text-overflow:clip;white-space:nowrap;color:var(--card-meta);}
+html body .pc-diskon{grid-area:1 / 2;align-self:center;justify-self:start;}
+html body .pc-harga{grid-area:2 / 1 / 3 / 3;}
+html body .pc-satuan{grid-area:2 / 3;}
+</style>
+<style id="ceritaKami">
+/* Cerita Kami, HP (<768px, 13/11/2026): mengikuti referensi — judul huruf biasa (tidak kapital), angka statistik
+   lebih besar dan tersebar rata kiri-kanan tanpa garis, jarak antar-blok lebih lega. Teks isi, label, sertifikat,
+   dan tautan tetap 12px. Desktop tidak berubah. */
+@media (max-width:767.98px){
+  html body .about .ab-meta{margin-bottom:16px;}
+  html body .about .ab-judul{text-transform:none!important;line-height:1.25!important;margin-bottom:20px;}
+  html body .about .ab-isi p{font-size:var(--text-12);line-height:1.7;margin-bottom:14px;}
+  html body .about .ab-angka{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;margin:36px 0 24px;}
+  html body .about .ab-angka div{padding:0;border:0;}
+  html body .about .ab-angka b{font-size:var(--text-24);line-height:1.2;}
+  html body .about .ab-angka span{margin-top:6px;font-size:var(--text-12);}
+  html body .about .ab-sertif{font-size:var(--text-12);margin-bottom:28px;}
+  html body .about .ab-baca{font-size:var(--text-12);padding:12px 0;max-width:none;}
+}
+</style>
+<style id="navKategori">
+/* Tombol "Kategori" di header (13/11/2026): teks 16px, tinggi huruf kapital tepat di tengah tinggi ikon. */
+html body .nav-kat-btn{align-items:center;}
+html body .nav-kat-btn span{font-size:16px!important;line-height:1;display:block;transform:translateY(.09em);}   /* huruf kapital "K" tepat di tengah tinggi ikon (Variera: huruf duduk ~0,09em di atas tengah kotak teks) */
+</style>
+<style id="kategoriKanan">
+/* Strip kategori "Mau ngopi apa hari ini?", desktop (13/11/2026): ikon kategori rata kanan.
+   "safe" menjaga agar bila lebar tidak cukup, strip tetap bisa digeser dari item pertama (tidak terpotong di kiri). */
+@media (min-width:1025px){
+  html body .ktg-baris{justify-content:flex-end;justify-content:safe flex-end;}
+}
+</style>
+<style id="megaFont18">
+/* Panel Kategori (13/11/2026): daftar kategori di kiri (Semua Produk, Specialty Filter, ..., Page Hitung HPP)
+   dan nama produk di kanan 18px. */
+html body .mega-nav a{font-size:18px!important;}
+html body .mega-item b{font-size:18px;}
+</style>
+<style id="bilahBawah16">
+/* Bilah navigasi bawah HP (13/11/2026): padding ATAS dan BAWAH 8px; kiri-kanan tetap 4px seperti semula.
+   Tinggi bilah = 56px (ikon + label) + 16px padding = 72px (+ area aman iPhone). --mobile-bottombar-h ikut 72px
+   supaya isi halaman, tombol WhatsApp, dan bilah beli produk tidak tertutup. */
+@media (max-width:767.98px){
+  html body{--mobile-bottombar-h:72px;}
+  html body.pdp-mode{--mobile-bottombar-h:72px;}
+  html body .mobile-bottombar{height:calc(72px + env(safe-area-inset-bottom));padding:8px 4px calc(8px + env(safe-area-inset-bottom));}
+}
 </style>
 </head>
 <body data-auth="tamu">
@@ -7355,7 +7448,6 @@ html body .ft-kontak a{font-size:14px!important;}
   <div class="fl-panel">
     <div class="fl-band">
       <div class="fl-kepala">
-        <span class="fl-pill"><span class="fl-titik" aria-hidden="true"></span>Sedang berlangsung</span>
         <h2 class="fl-judul" id="flJudul"><span>Flash</span> <svg class="fl-petir" viewBox="0 0 24 32" aria-hidden="true" focusable="false"><path fill="currentColor" d="M15 0 2 18h8L7 32l15-20h-9z"/></svg> <span>Sale</span></h2>
         <p class="fl-sub"><span class="fl-layar-besar">Harga spesial, stok terbatas. Jangan sampai kehabisan!</span><span class="fl-layar-hp">Harga spesial, stok terbatas!</span></p>
       </div>
@@ -7439,7 +7531,6 @@ html body .ft-kontak a{font-size:14px!important;}
   <div class="kg-dalam">
     <div class="kg-kepala">
       <div class="kg-kepala-kiri">
-        <span class="kg-eyebrow">Kenapa Sakha</span>
         <h2 class="kg-h2" id="kgJudul">Kopi segar dari roastery,<br><span>sampai aman di cangkirmu.</span></h2>
       </div>
       <div class="kg-kepala-kanan">
@@ -7521,7 +7612,6 @@ html body .ft-kontak a{font-size:14px!important;}
 <section class="testimonials tm" aria-labelledby="tmJudul">
   <div class="container">
     <div class="section-head">
-      <span class="eyebrow">Kata Mereka</span>
       <h2 id="tmJudul">Dipercaya <em>Ribuan</em> Pecinta Kopi</h2>
       <p>Ulasan asli dari pembeli Sakha.</p>
     </div>
@@ -15322,7 +15412,7 @@ function renderKategoriBeranda(){
   if(kb) kb.innerHTML = RASA_BERANDA.map(function(k){
     var p = prod(k.pid), r = RASA_FAMILI.filter(function(f){ return f.id === k.id; })[0]; if(!p || !r) return '';
     return '<a class="kb-kartu" href="#/katalog?rasa='+k.id+'"><span class="kb-teks"><small>'+esc(k.atas)+'</small><b>'+esc(r.label)+'</b><span>'+esc(k.desk)+'</span>'+
-      '<span class="kb-cta">Lihat Produk<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></span><span class="kb-foto"><img data-img="'+p.img+'" alt="" width="400" height="400"></span></a>';
+      '<span class="kb-cta">Lihat Produk</span></span><span class="kb-foto"><img data-img="'+p.img+'" alt="" width="400" height="400"></span></a>';
   }).join('');
 }
 // Cari dengan suara: memakai pengenalan suara browser bila tersedia.
